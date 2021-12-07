@@ -1,0 +1,1171 @@
+﻿year,mfr_name,division,model,cyl,displ,mpg_unadj_comb,mpg_adj_comb
+2021,Honda,Acura,NSX,6,3.5,29.356,21
+2021,aston martin,Aston Martin Lagonda Ltd,Vantage Manual,8,4,21.248,17
+2021,aston martin,Aston Martin Lagonda Ltd,Vantage V8,8,4,26.649,20
+2021,Volkswagen Group of,Audi,R8,10,5.2,19.259,16
+2021,Volkswagen Group of,Audi,R8 2WD,10,5.2,20.069,17
+2021,Volkswagen Group of,Audi,R8 Spyder,10,5.2,19.259,16
+2021,Volkswagen Group of,Audi,R8 Spyder 2WD,10,5.2,20.069,17
+2021,Volkswagen Group of,Audi,TT Roadster quattro,4,2,33.082,26
+2021,BMW,BMW,Z4 M40i,6,3,33.899,25
+2021,BMW,BMW,Z4 sDrive30i,4,2,37.108,28
+2021,Volkswagen Group of,Bugatti,Chiron,16,8,12.885,11
+2021,Volkswagen Group of,Bugatti,Chiron Pur Sport,16,8,12.431,10
+2021,General Motors,Chevrolet,CORVETTE,8,6.2,23.188,19
+2021,Ferrari,"Ferrari North America, Inc.",812 GTS,12,6.5,16.89,13
+2021,Ferrari,"Ferrari North America, Inc.",812 Superfast,12,6.5,16.942,13
+2021,Ferrari,"Ferrari North America, Inc.",F8 Spider,8,3.9,20.499,16
+2021,Ferrari,"Ferrari North America, Inc.",F8 Tributo,8,3.9,20.984,16
+2021,Ford Motor Company,Ford,FORD GT,6,3.5,17.93,14
+2021,Jaguar Land Rover L,Jaguar,F-TYPE R AWD Convertible,8,5,23.841,18
+2021,Jaguar Land Rover L,Jaguar,F-TYPE R AWD Coupe,8,5,23.841,18
+2021,Jaguar Land Rover L,Jaguar,F-TYPE S AWD Convertible,6,3,27.252,21
+2021,Jaguar Land Rover L,Jaguar,F-TYPE S AWD Coupe,6,3,27.252,21
+2021,Jaguar Land Rover L,Jaguar,F-TYPE S Convertible,6,3,28.639,22
+2021,Jaguar Land Rover L,Jaguar,F-TYPE S Coupe,6,3,28.639,22
+2021,Volkswagen Group of,Lamborghini,Aventador Coupe,12,6.5,12.863,10
+2021,Volkswagen Group of,Lamborghini,Aventador Roadster,12,6.5,13.084,10
+2021,Volkswagen Group of,Lamborghini,Aventador Sian Coupe,12,6.5,12.696,10
+2021,Volkswagen Group of,Lamborghini,Aventador Sian Roadster,12,6.5,12.696,10
+2021,Volkswagen Group of,Lamborghini,Huracan,10,5.2,18.855,15
+2021,Volkswagen Group of,Lamborghini,Huracan 2WD,10,5.2,18.865,15
+2021,Volkswagen Group of,Lamborghini,Huracan Spyder,10,5.2,18.855,15
+2021,Volkswagen Group of,Lamborghini,Huracan Spyder 2WD,10,5.2,18.866,15
+2021,MAZDA,MAZDA,MX-5,4,2,40.296,30
+2021,MAZDA,MAZDA,MX-5,4,2,39.315,29
+2021,McLaren Automotive,McLaren,720S Coupe,8,4,22.677,18
+2021,McLaren Automotive,McLaren,720S Coupe LM,8,4,22.677,18
+2021,McLaren Automotive,McLaren,720S Spider,8,4,22.677,18
+2021,McLaren Automotive,McLaren,Elva,8,4,22.474,18
+2021,McLaren Automotive,McLaren,GT,8,4,22.723,18
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT (coupe),8,4,21.742,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT (roadster),8,4,21.432,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT Black Series,8,4,21.745,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT C (coupe),8,4,21.375,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT C (roadster),8,4,21.507,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT R (coupe),8,4,20.974,16
+2021,Nissan,NISSAN,370Z,6,3.7,27.068,20
+2021,Porsche,Porsche,718 Boxster,4,2,31.279,24
+2021,Porsche,Porsche,718 Boxster,4,2,29.629,22
+2021,Porsche,Porsche,718 Boxster GTS 4.0,6,4,27.674,21
+2021,Porsche,Porsche,718 Boxster GTS 4.0,6,4,25.083,19
+2021,Porsche,Porsche,718 Boxster S,4,2.5,28.359,22
+2021,Porsche,Porsche,718 Boxster S,4,2.5,27.454,21
+2021,Porsche,Porsche,718 Boxster T,4,2,30.81,23
+2021,Porsche,Porsche,718 Boxster T,4,2,29.629,22
+2021,Porsche,Porsche,718 Cayman,4,2,31.279,24
+2021,Porsche,Porsche,718 Cayman,4,2,29.629,22
+2021,Porsche,Porsche,718 Cayman GT4,6,4,26.467,20
+2021,Porsche,Porsche,718 Cayman GT4,6,4,24.951,19
+2021,Porsche,Porsche,718 Cayman GTS 4.0,6,4,27.674,21
+2021,Porsche,Porsche,718 Cayman GTS 4.0,6,4,25.083,19
+2021,Porsche,Porsche,718 Cayman S,4,2.5,28.359,22
+2021,Porsche,Porsche,718 Cayman S,4,2.5,27.454,21
+2021,Porsche,Porsche,718 Cayman T,4,2,30.81,23
+2021,Porsche,Porsche,718 Cayman T,4,2,29.629,22
+2021,Porsche,Porsche,718 Spyder,6,4,26.467,20
+2021,Porsche,Porsche,718 Spyder,6,4,24.951,19
+2021,BMW,TOYOTA,Supra 2.0,4,2,37.108,28
+2021,BMW,TOYOTA,Supra 3.0,6,3,33.225,25
+2021,aston martin,Aston Martin Lagonda Ltd,DB11 V12,12,5.2,22.844,18
+2021,aston martin,Aston Martin Lagonda Ltd,DB11 V8,8,4,26.66,20
+2021,aston martin,Aston Martin Lagonda Ltd,DBS,12,5.2,21.866,17
+2021,Volkswagen Group of,Bentley,Continental GT Convertible,8,4,23.203,19
+2021,Volkswagen Group of,Bentley,Continental GT Convertible,12,6,18.64,15
+2021,Ferrari,"Ferrari North America, Inc.",Portofino,8,3.9,23.477,18
+2021,Ferrari,"Ferrari North America, Inc.",Portofino M,8,3.9,24.277,19
+2021,Toyota,LEXUS,LC 500 CONVERTIBLE,8,5,23.202,18
+2021,Lotus,Lotus Cars Ltd,Evora GT,6,3.5,26.098,20
+2021,Lotus,Lotus Cars Ltd,Evora GT,6,3.5,24.165,20
+2021,BMW,Mini,COOPER CONVERTIBLE,3,1.5,43.02,31
+2021,BMW,Mini,COOPER CONVERTIBLE,3,1.5,41.065,30
+2021,BMW,Mini,COOPER S CONVERTIBLE,4,2,39.095,29
+2021,BMW,Mini,COOPER S CONVERTIBLE,4,2,35.074,26
+2021,BMW,Mini,JOHN COOPER WORKS CONVERTIBLE,4,2,38.026,28
+2021,Porsche,Porsche,911 Carrera,6,3,27.907,20
+2021,Porsche,Porsche,911 Carrera 4,6,3,27.605,20
+2021,Porsche,Porsche,911 Carrera 4 Cabriolet,6,3,27.293,20
+2021,Porsche,Porsche,911 Carrera 4S,6,3,26.449,20
+2021,Porsche,Porsche,911 Carrera 4S,6,3,26.937,20
+2021,Porsche,Porsche,911 Carrera 4S Cabriolet,6,3,26.632,20
+2021,Porsche,Porsche,911 Carrera 4S Cabriolet,6,3,26.626,20
+2021,Porsche,Porsche,911 Carrera Cabriolet,6,3,27.821,20
+2021,Porsche,Porsche,911 Carrera S,6,3,26.627,20
+2021,Porsche,Porsche,911 Carrera S,6,3,27.515,21
+2021,Porsche,Porsche,911 Carrera S Cabriolet,6,3,26.673,20
+2021,Porsche,Porsche,911 Carrera S Cabriolet,6,3,27.252,20
+2021,Porsche,Porsche,911 Targa 4,6,3,27.511,20
+2021,Porsche,Porsche,911 Targa 4S,6,3,27.173,20
+2021,Porsche,Porsche,911 Targa 4S,6,3,26.065,20
+2021,Porsche,Porsche,911 Turbo,6,3.7,22.115,17
+2021,Porsche,Porsche,911 Turbo Cabriolet,6,3.7,22.046,17
+2021,Porsche,Porsche,911 Turbo S,6,3.7,22.463,17
+2021,Porsche,Porsche,911 Turbo S Cabriolet,6,3.7,21.735,17
+2021,Volkswagen Group of,Audi,A5 Cabriolet quattro,4,2,34.096,26
+2021,Volkswagen Group of,Audi,A5 quattro,4,2,35.736,27
+2021,Volkswagen Group of,Audi,RS 5,6,2.9,25.893,20
+2021,Volkswagen Group of,Audi,S5,6,3,30.671,23
+2021,Volkswagen Group of,Audi,S5 Cabriolet,6,3,29.611,22
+2021,Volkswagen Group of,Audi,TT Coupe quattro,4,2,33.082,26
+2021,Volkswagen Group of,Audi,TT RS,5,2.5,29.544,24
+2021,Volkswagen Group of,Audi,TTS Coupe,4,2,32.675,25
+2021,Volkswagen Group of,Bentley,Continental GT,8,4,23.203,19
+2021,Volkswagen Group of,Bentley,Continental GT,12,6,18.642,15
+2021,BMW,BMW,230i Convertible,4,2,35.784,27
+2021,BMW,BMW,230i Coupe,4,2,37.108,28
+2021,BMW,BMW,230i Coupe,4,2,33.023,25
+2021,BMW,BMW,230i xDrive Convertible,4,2,31.949,24
+2021,BMW,BMW,230i xDrive Coupe,4,2,31.949,24
+2021,BMW,BMW,430i Convertible,4,2,36.14,27
+2021,BMW,BMW,430i Coupe,4,2,39.124,29
+2021,BMW,BMW,430i xDrive Coupe,4,2,36.172,27
+2021,BMW,BMW,840i Convertible,6,3,32.574,25
+2021,BMW,BMW,840i Coupe,6,3,33.969,25
+2021,BMW,BMW,840i xDrive Convertible,6,3,30.098,23
+2021,BMW,BMW,840i xDrive Coupe,6,3,30.098,23
+2021,BMW,BMW,M2 Competition Coupe,6,3,24.262,19
+2021,BMW,BMW,M2 Competition Coupe,6,3,26.23,20
+2021,BMW,BMW,M240i Convertible,6,3,32.008,24
+2021,BMW,BMW,M240i Convertible,6,3,28.12,21
+2021,BMW,BMW,M240i Coupe,6,3,32.008,24
+2021,BMW,BMW,M240i Coupe,6,3,28.12,21
+2021,BMW,BMW,M240i xDrive Convertible,6,3,32.027,24
+2021,BMW,BMW,M240i xDrive Coupe,6,3,32.027,24
+2021,BMW,BMW,M4 Competition Coupe,6,3,24.22,19
+2021,BMW,BMW,M4 Coupe,6,3,24.101,19
+2021,BMW,BMW,M440i Convertible,6,3,34.813,26
+2021,BMW,BMW,M440i xDrive Coupe,6,3,33.877,25
+2021,BMW,BMW,M8 Competition Convertible,8,4.4,21.934,17
+2021,BMW,BMW,M8 Convertible,8,4.4,21.934,17
+2021,BMW,BMW,M850i xDrive Convertible,8,4.4,25.302,19
+2021,BMW,BMW,M850i xDrive Coupe,8,4.4,26.084,20
+2021,General Motors,Chevrolet,CAMARO,4,2,32.952,25
+2021,General Motors,Chevrolet,CAMARO,4,2,29.253,22
+2021,General Motors,Chevrolet,CAMARO,6,3.6,28.845,22
+2021,General Motors,Chevrolet,CAMARO,6,3.6,25.452,20
+2021,General Motors,Chevrolet,CAMARO,8,6.2,19.225,16
+2021,General Motors,Chevrolet,CAMARO,8,6.2,23.701,20
+2021,General Motors,Chevrolet,CAMARO,8,6.2,24.077,19
+2021,General Motors,Chevrolet,CAMARO,8,6.2,20.182,16
+2021,General Motors,Chevrolet,SPARK,4,1.4,46.057,33
+2021,General Motors,Chevrolet,SPARK,4,1.4,44.707,33
+2021,General Motors,Chevrolet,SPARK ACTIV,4,1.4,46.057,33
+2021,General Motors,Chevrolet,SPARK ACTIV,4,1.4,44.707,32
+2021,Ferrari,"Ferrari North America, Inc.",Roma,8,3.9,24.261,19
+2021,Ford Motor Company,Ford,MUSTANG,4,2.3,33.389,25
+2021,Ford Motor Company,Ford,MUSTANG,4,2.3,33.122,25
+2021,Ford Motor Company,Ford,MUSTANG,4,2.3,31.505,24
+2021,Ford Motor Company,Ford,MUSTANG,8,5,23.935,19
+2021,Ford Motor Company,Ford,MUSTANG,8,5,22.965,18
+2021,Ford Motor Company,Ford,MUSTANG CONVERTIBLE,4,2.3,30.23,23
+2021,Ford Motor Company,Ford,MUSTANG CONVERTIBLE,4,2.3,30.261,23
+2021,Ford Motor Company,Ford,MUSTANG CONVERTIBLE,4,2.3,31.505,23
+2021,Ford Motor Company,Ford,MUSTANG CONVERTIBLE,8,5,23.199,18
+2021,Ford Motor Company,Ford,MUSTANG HO CONVERTIBLE,4,2.3,33.122,22
+2021,Ford Motor Company,Ford,MUSTANG HO CONVERTIBLE,4,2.3,28.076,21
+2021,Ford Motor Company,Ford,MUSTANG HO COUPE,4,2.3,33.122,23
+2021,Ford Motor Company,Ford,MUSTANG HO COUPE,4,2.3,29.463,22
+2021,Ford Motor Company,Ford,MUSTANG MACH 1,8,5,23.935,18
+2021,Ford Motor Company,Ford,MUSTANG MACH 1,8,5,21.746,17
+2021,Ford Motor Company,Ford,SHELBY GT500 MUSTANG,8,5.2,17.814,14
+2021,Nissan,INFINITI,Q60,6,3,29.913,22
+2021,Nissan,INFINITI,Q60 AWD,6,3,29.044,22
+2021,Nissan,INFINITI,Q60 AWD RED SPORT,6,3,28.934,21
+2021,Nissan,INFINITI,Q60 RED SPORT,6,3,30.313,22
+2021,Toyota,LEXUS,LC 500,8,5,24.076,19
+2021,Toyota,LEXUS,LC 500h,6,3.5,39.732,29
+2021,Toyota,LEXUS,RC 300,4,2,32.764,25
+2021,Toyota,LEXUS,RC 300 AWD,6,3.5,28.581,22
+2021,Toyota,LEXUS,RC 350,6,3.5,30.209,23
+2021,Toyota,LEXUS,RC 350 AWD,6,3.5,28.581,22
+2021,Toyota,LEXUS,RC F,8,5,24.707,19
+2021,Mercedes-Benz,Mercedes-Benz,A 220,4,2,38.803,29
+2021,Mercedes-Benz,Mercedes-Benz,A 220 4MATIC,4,2,37.872,28
+2021,Mercedes-Benz,Mercedes-Benz,AMG A 35 4MATIC,4,2,32.763,25
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC (convertible),6,3,28.9,22
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC (coupe),6,3,28.506,22
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 63 (convertible),8,4,25.569,20
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 63 (coupe),8,4,26.295,20
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 63 S (convertible),8,4,25.569,20
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 63 S (coupe),8,4,26.295,20
+2021,Mercedes-Benz,Mercedes-Benz,AMG E53 4MATIC+ (Convertible),6,3,30.604,23
+2021,Mercedes-Benz,Mercedes-Benz,AMG E53 4MATIC+ (Coupe),6,3,31.155,24
+2021,Mercedes-Benz,Mercedes-Benz,AMG S 63 4MATIC+ (convertible),8,4,22.433,17
+2021,Mercedes-Benz,Mercedes-Benz,C 300 (convertible),4,2,34.124,26
+2021,Mercedes-Benz,Mercedes-Benz,C 300 (Coupe),4,2,36.015,27
+2021,Mercedes-Benz,Mercedes-Benz,C 300 4MATIC (convertible),4,2,32.874,25
+2021,Mercedes-Benz,Mercedes-Benz,C 300 4MATIC (Coupe),4,2,34.995,26
+2021,Mercedes-Benz,Mercedes-Benz,E 450 (convertible),6,3,33.978,25
+2021,Mercedes-Benz,Mercedes-Benz,E 450 (coupe),6,3,34.891,26
+2021,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC (convertible),6,3,33.635,25
+2021,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC (coupe),6,3,33.883,25
+2021,Mercedes-Benz,Mercedes-Benz,S 560 (convertible),8,4,25.345,20
+2021,BMW,Mini,COOPER HARDTOP 2 DOOR,3,1.5,43.02,31
+2021,BMW,Mini,COOPER HARDTOP 2 DOOR,3,1.5,41.065,30
+2021,BMW,Mini,COOPER HARDTOP 4 DOOR,3,1.5,43.02,31
+2021,BMW,Mini,COOPER HARDTOP 4 DOOR,3,1.5,41.065,30
+2021,BMW,Mini,COOPER S HARDTOP 2 DOOR,4,2,40.177,30
+2021,BMW,Mini,COOPER S HARDTOP 2 DOOR,4,2,35.847,27
+2021,BMW,Mini,COOPER S HARDTOP 4 DOOR,4,2,40.177,30
+2021,BMW,Mini,COOPER S HARDTOP 4 DOOR,4,2,35.847,27
+2021,BMW,Mini,John Cooper Works GP,4,2,35.236,26
+2021,BMW,Mini,JOHN COOPER WORKS HARDTOP,4,2,39.079,29
+2021,BMW,Mini,JOHN COOPER WORKS HARDTOP,4,2,35.847,27
+2021,Nissan,NISSAN,GT-R,6,3.8,23.294,18
+2021,Roush,"Roush Industries, Inc.",Roush Mustang,8,5,18.648,15
+2021,Roush,"Roush Industries, Inc.",Roush Mustang,8,5,18.245,14
+2021,Honda,Acura,ILX,4,2.4,37.529,28
+2021,Honda,Acura,TLX AWD,4,2,31.804,24
+2021,Honda,Acura,TLX AWD A-SPEC,4,2,31.621,24
+2021,Honda,Acura,TLX FWD,4,2,33.504,25
+2021,Honda,Acura,TLX FWD A-SPEC,4,2,32.981,25
+2021,Honda,Acura,TLX Type-S,6,3,29.149,21
+2021,Honda,Acura,TLX Type-S Perf Tire,6,3,28.011,21
+2021,Volkswagen Group of,Audi,A4 quattro,4,2,38.303,28
+2021,Volkswagen Group of,Audi,A4 S line quattro,4,2,35.736,27
+2021,Volkswagen Group of,Audi,S4,6,3,30.671,23
+2021,BMW,BMW,228i Gran Coupe,4,2,37.009,28
+2021,BMW,BMW,228i xDrive Gran Coupe,4,2,35.446,27
+2021,BMW,BMW,330i,4,2,40.169,30
+2021,BMW,BMW,330i xDrive,4,2,38.079,28
+2021,BMW,BMW,M235i xDrive Gran Coupe,4,2,34.944,26
+2021,BMW,BMW,M3,6,3,24.101,19
+2021,BMW,BMW,M3 Competition,6,3,24.22,19
+2021,BMW,BMW,M340i,6,3,35.336,26
+2021,BMW,BMW,M340i xDrive,6,3,33.877,25
+2021,General Motors,Cadillac,CT4,4,2,36.339,27
+2021,General Motors,Cadillac,CT4,4,2.7,32.893,25
+2021,General Motors,Cadillac,CT4 AWD,4,2,34.575,26
+2021,General Motors,Cadillac,CT4 AWD,4,2.7,31.304,24
+2021,General Motors,Cadillac,CT4 V,4,2.7,32.893,23
+2021,General Motors,Cadillac,CT4 V AWD,4,2.7,31.304,23
+2021,Hyundai,GENESIS,G70 AWD,4,2,30.365,23
+2021,Hyundai,GENESIS,G70 AWD,6,3.3,24.292,20
+2021,Hyundai,GENESIS,G70 RWD,4,2,33.029,25
+2021,Hyundai,GENESIS,G70 RWD,4,2,28.361,22
+2021,Hyundai,GENESIS,G70 RWD,6,3.3,25.207,20
+2021,Honda,Honda,INSIGHT TOURING,4,1.5,70.375,48
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Accent,4,1.6,50.757,36
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Accent,4,1.6,44.721,33
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,4,1.6,41.25,30
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,4,1.6,37.498,29
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,4,2,40.572,30
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,4,2,38.062,28
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Veloster N,4,2,28.181,22
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Veloster N,4,2,31.382,25
+2021,Kia,KIA,Rio,4,1.6,49.94,36
+2021,Toyota,LEXUS,IS 300,4,2,32.764,25
+2021,Toyota,LEXUS,IS 300 AWD,6,3.5,28.581,22
+2021,Toyota,LEXUS,IS 350,6,3.5,30.209,23
+2021,Toyota,LEXUS,IS 350 AWD,6,3.5,28.581,22
+2021,Toyota,LEXUS,UX 250h,4,2,58.885,42
+2021,Toyota,LEXUS,UX 250h AWD,4,2,55.472,39
+2021,MAZDA,MAZDA,CX-3 2WD,4,2,41.942,31
+2021,MAZDA,MAZDA,CX-3 4WD,4,2,39.626,29
+2021,MAZDA,MAZDA,MAZDA2,4,1.5,48.516,35
+2021,MAZDA,MAZDA,MAZDA2,4,1.5,47.14,34
+2021,MAZDA,MAZDA,MAZDA3 4-Door 2WD,4,2,42.331,31
+2021,MAZDA,MAZDA,MAZDA3 4-Door 2WD,4,2.5,40.996,30
+2021,MAZDA,MAZDA,MAZDA3 4-Door 2WD,4,2.5,40.127,30
+2021,MAZDA,MAZDA,MAZDA3 4-Door 4WD,4,2.5,35.623,27
+2021,MAZDA,MAZDA,MAZDA3 4-Door 4WD,4,2.5,38.222,28
+2021,MAZDA,MAZDA,MAZDA3 4-Door 4WD,4,2.5,37.395,28
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 43 4MATIC,6,3,27.105,21
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 63,8,4,26.754,21
+2021,Mercedes-Benz,Mercedes-Benz,AMG C 63 S,8,4,26.754,21
+2021,Mercedes-Benz,Mercedes-Benz,AMG CLA 35 4MATIC,4,2,32.763,25
+2021,Mercedes-Benz,Mercedes-Benz,AMG CLA 45 4MATIC,4,2,29.984,23
+2021,Mercedes-Benz,Mercedes-Benz,AMG CLS53 4MATIC+,6,3,30.205,23
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT 43 4MATIC+,6,3,28.495,22
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT 53 4MATIC+,6,3,28.495,22
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT 63 4MATIC+,8,4,22.856,18
+2021,Mercedes-Benz,Mercedes-Benz,AMG GT 63 S 4MATIC+,8,4,22.856,18
+2021,Mercedes-Benz,Mercedes-Benz,AMG S 63 4MATIC+ (coupe),8,4,24.412,19
+2021,Mercedes-Benz,Mercedes-Benz,C 300,4,2,36.693,27
+2021,Mercedes-Benz,Mercedes-Benz,C 300 4MATIC,4,2,36.166,27
+2021,Mercedes-Benz,Mercedes-Benz,CLA 250,4,2,39.179,29
+2021,Mercedes-Benz,Mercedes-Benz,CLA 250 4MATIC,4,2,36.8,27
+2021,Mercedes-Benz,Mercedes-Benz,CLS 450,6,3,34.166,26
+2021,Mercedes-Benz,Mercedes-Benz,CLS 450 4MATIC,6,3,33.164,25
+2021,Mercedes-Benz,Mercedes-Benz,S 560 4MATIC (coupe),8,4,25.345,20
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE,3,1.2,55.521,39
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE,3,1.2,50.896,36
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE G4,3,1.2,52.809,37
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE G4,3,1.2,50.452,35
+2021,Nissan,NISSAN,VERSA,4,1.6,48.646,35
+2021,Nissan,NISSAN,VERSA,4,1.6,42.066,30
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Dawn,12,6.6,17.739,14
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Dawn Black Badge,12,6.6,17.739,14
+2021,Subaru,Subaru,WRX,4,2,26.846,21
+2021,Subaru,Subaru,WRX,4,2,30.028,23
+2021,Subaru,Subaru,WRX,4,2.5,23.851,18
+2021,Toyota,TOYOTA,C-HR,4,2,40.818,29
+2021,Toyota,TOYOTA,COROLLA,4,1.8,45.462,33
+2021,Toyota,TOYOTA,COROLLA,4,1.8,45.017,33
+2021,Toyota,TOYOTA,COROLLA,4,2,47.437,34
+2021,Toyota,TOYOTA,COROLLA,4,2,43.594,32
+2021,Toyota,TOYOTA,COROLLA APEX,4,2,46.455,34
+2021,Toyota,TOYOTA,COROLLA APEX,4,2,42.972,31
+2021,Toyota,TOYOTA,COROLLA HATCHBACK,4,2,49.252,35
+2021,Toyota,TOYOTA,COROLLA HATCHBACK MANUAL,4,2,43.243,31
+2021,Toyota,TOYOTA,COROLLA HATCHBACK XSE,4,2,45.686,33
+2021,Toyota,TOYOTA,COROLLA HYBRID,4,1.8,77.233,52
+2021,Toyota,TOYOTA,COROLLA XLE,4,1.8,44.168,32
+2021,Toyota,TOYOTA,COROLLA XSE,4,2,46.506,34
+2021,Volkswagen Group of,Volkswagen,Golf,4,1.4,43.153,32
+2021,Volkswagen Group of,Volkswagen,Golf,4,1.4,42.824,33
+2021,Volkswagen Group of,Volkswagen,GTI,4,2,34.816,27
+2021,Volkswagen Group of,Volkswagen,GTI,4,2,33.383,26
+2021,Volkswagen Group of,Volkswagen,Jetta,4,1.4,44.744,33
+2021,Volkswagen Group of,Volkswagen,Jetta,4,1.4,44.437,34
+2021,Volkswagen Group of,Volkswagen,Jetta GLI,4,2,36.878,28
+2021,Volkswagen Group of,Volkswagen,Jetta GLI,4,2,35.202,28
+2021,Volvo,"Volvo Cars of North America, LLC",S60 AWD,4,2,33.919,26
+2021,Volvo,"Volvo Cars of North America, LLC",S60 AWD,4,2,33.224,25
+2021,Volvo,"Volvo Cars of North America, LLC",S60 FWD,4,2,36.691,27
+2021,FCA US LLC,ALFA ROMEO,Giulia,4,2,36.106,27
+2021,FCA US LLC,ALFA ROMEO,Giulia,6,2.9,26.456,20
+2021,FCA US LLC,ALFA ROMEO,Giulia AWD,4,2,34.035,26
+2021,Volkswagen Group of,Audi,A5 Sportback quattro,4,2,38.303,28
+2021,Volkswagen Group of,Audi,A5 Sportback S line quattro,4,2,35.736,27
+2021,Volkswagen Group of,Audi,A6 quattro,4,2,34.564,26
+2021,Volkswagen Group of,Audi,A6 quattro,6,3,32.754,24
+2021,Volkswagen Group of,Audi,A7 quattro,6,3,32.754,24
+2021,Volkswagen Group of,Audi,RS 5 Sportback,6,2.9,26.597,21
+2021,Volkswagen Group of,Audi,RS 7,8,4,22.964,17
+2021,Volkswagen Group of,Audi,S5 Sportback,6,3,30.671,23
+2021,Volkswagen Group of,Audi,S6,6,2.9,28.64,22
+2021,Volkswagen Group of,Audi,S7,6,2.9,28.64,22
+2021,Volkswagen Group of,Bentley,Flying Spur,8,4,22.09,17
+2021,Volkswagen Group of,Bentley,Flying Spur,12,6,18.64,15
+2021,BMW,BMW,530i,4,2,37.783,28
+2021,BMW,BMW,530i xDrive,4,2,35.585,27
+2021,BMW,BMW,540i,6,3,36.843,27
+2021,BMW,BMW,540i xDrive,6,3,34.925,26
+2021,BMW,BMW,840i Gran Coupe,6,3,32.574,25
+2021,BMW,BMW,840i xDrive Gran Coupe,6,3,30.098,23
+2021,BMW,BMW,M5,8,4.4,21.934,17
+2021,BMW,BMW,M5 Competition,8,4.4,21.934,17
+2021,BMW,BMW,M550i xDrive,8,4.4,26.084,20
+2021,BMW,BMW,M8 Competition Gran Coupe,8,4.4,21.934,17
+2021,BMW,BMW,M8 Gran Coupe,8,4.4,21.934,17
+2021,BMW,BMW,M850i xDrive Gran Coupe,8,4.4,25.302,19
+2021,BMW,BMW,X2 M35i,4,2,34.89,26
+2021,BMW,BMW,X2 sDrive28i,4,2,35.81,27
+2021,BMW,BMW,X2 xDrive28i,4,2,35.871,27
+2021,General Motors,Cadillac,CT5,4,2,34.887,26
+2021,General Motors,Cadillac,CT5,6,3,29.868,22
+2021,General Motors,Cadillac,CT5 AWD,4,2,32.592,25
+2021,General Motors,Cadillac,CT5 AWD,6,3,27.776,21
+2021,General Motors,Cadillac,CT5 V,6,3,29.868,21
+2021,General Motors,Cadillac,CT5 V AWD,6,3,27.776,21
+2021,General Motors,Chevrolet,MALIBU,4,1.5,44.537,32
+2021,General Motors,Chevrolet,MALIBU,4,2,34.176,26
+2021,FCA US LLC,Dodge,Challenger,6,3.6,29.892,23
+2021,FCA US LLC,Dodge,Challenger,8,5.7,24.654,19
+2021,FCA US LLC,Dodge,Challenger,8,5.7,23.14,18
+2021,FCA US LLC,Dodge,Challenger,8,6.4,23.006,18
+2021,FCA US LLC,Dodge,Challenger,8,6.4,21.681,17
+2021,FCA US LLC,Dodge,Challenger AWD,6,3.6,27.992,21
+2021,FCA US LLC,Dodge,Challenger SRT,8,6.2,20.086,16
+2021,FCA US LLC,Dodge,Challenger SRT,8,6.2,19.755,16
+2021,FCA US LLC,Dodge,Challenger SRT Widebody,8,6.2,19.122,15
+2021,FCA US LLC,Dodge,Challenger SRT Widebody,8,6.2,19.755,16
+2021,FCA US LLC,Dodge,Challenger Widebody,8,6.4,23.006,18
+2021,FCA US LLC,Dodge,Challenger Widebody,8,6.4,21.681,17
+2021,Honda,Honda,CIVIC 4Dr,4,1.5,48.431,36
+2021,Honda,Honda,CIVIC 4Dr,4,1.5,45.358,33
+2021,Honda,Honda,CIVIC 4Dr,4,2,44.706,33
+2021,Honda,Honda,CIVIC 4Dr,4,2,43.049,32
+2021,Honda,Honda,INSIGHT,4,1.5,76.487,52
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,4,1.6,41.459,31
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,4,1.6,37.943,28
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,4,2,51.182,37
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,4,2,46.65,35
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid,4,1.6,67.892,50
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Elantra Hybrid Blue,4,1.6,72.574,54
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Venue,4,1.6,42.653,31
+2021,Nissan,INFINITI,Q50,6,3,31.408,23
+2021,Nissan,INFINITI,Q50 AWD,6,3,29.044,22
+2021,Nissan,INFINITI,Q50 AWD RED SPORT,6,3,28.934,22
+2021,Nissan,INFINITI,Q50 RED SPORT,6,3,29.058,22
+2021,Kia,KIA,Forte,4,1.6,39.667,30
+2021,Kia,KIA,Forte,4,1.6,37.131,28
+2021,Kia,KIA,Forte,4,2,45.564,33
+2021,Kia,KIA,Forte,4,2,42.255,31
+2021,Kia,KIA,Forte FE,4,2,48.055,35
+2021,Kia,KIA,Stinger AWD,4,2,31.983,24
+2021,Kia,KIA,Stinger AWD,6,3.3,24.803,20
+2021,Kia,KIA,Stinger RWD,4,2,32.533,25
+2021,Kia,KIA,Stinger RWD,6,3.3,25.479,20
+2021,Toyota,LEXUS,ES 250 AWD,4,2.5,38.447,28
+2021,Toyota,LEXUS,ES 300h,4,2.5,60.044,44
+2021,Toyota,LEXUS,ES 350,6,3.5,33.903,26
+2021,Toyota,LEXUS,ES 350 F SPORT,6,3.5,33.284,25
+2021,Toyota,LEXUS,LS 500,6,3.4,28.877,22
+2021,Toyota,LEXUS,LS 500 AWD,6,3.4,27.537,21
+2021,Toyota,LEXUS,LS 500h,6,3.5,38.575,28
+2021,Toyota,LEXUS,LS 500h AWD,6,3.5,34.204,26
+2021,Toyota,LEXUS,UX 200,4,2,44.639,32
+2021,Maserati,MASERATI,GHIBLI,6,3,25.714,20
+2021,Maserati,MASERATI,GHIBLI S,6,3,25.714,20
+2021,Maserati,MASERATI,GHIBLI S Q4,6,3,23.886,19
+2021,Maserati,MASERATI,GHIBLI TROFEO,8,3.8,20.14,16
+2021,MAZDA,MAZDA,MAZDA3 5-Door 2WD,4,2.5,39.653,29
+2021,MAZDA,MAZDA,MAZDA3 5-Door 2WD,4,2.5,36.898,27
+2021,MAZDA,MAZDA,MAZDA3 5-Door 4WD,4,2.5,35.294,26
+2021,MAZDA,MAZDA,MAZDA3 5-Door 4WD,4,2.5,36.652,27
+2021,MAZDA,MAZDA,MAZDA6,4,2.5,35.342,26
+2021,MAZDA,MAZDA,MAZDA6,4,2.5,39.792,29
+2021,Mercedes-Benz,Mercedes-Benz,AMG E 63 S 4MATIC+,8,4,23.722,18
+2021,Mercedes-Benz,Mercedes-Benz,AMG E53 4MATIC+,6,3,32.735,25
+2021,Mercedes-Benz,Mercedes-Benz,E 350,4,2,33.84,25
+2021,Mercedes-Benz,Mercedes-Benz,E 350 4MATIC,4,2,33.243,25
+2021,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC,6,3,34.014,26
+2021,BMW,Mini,COOPER COUNTRYMAN,3,1.5,39.022,29
+2021,BMW,Mini,COOPER COUNTRYMAN ALL4,3,1.5,35.74,27
+2021,BMW,Mini,COOPER S CLUBMAN,4,2,39.174,29
+2021,BMW,Mini,COOPER S CLUBMAN,4,2,34.1,26
+2021,BMW,Mini,COOPER S CLUBMAN ALL4,4,2,35.344,26
+2021,BMW,Mini,COOPER S COUNTRYMAN,4,2,36.969,28
+2021,BMW,Mini,COOPER S COUNTRYMAN ALL4,4,2,34.471,26
+2021,BMW,Mini,JCW COUNTRYMAN ALL4,4,2,34.96,26
+2021,BMW,Mini,JOHN COOPER WORKS CLUBMAN ALL4,4,2,34.872,26
+2021,Nissan,NISSAN,ALTIMA,4,2.5,43.155,32
+2021,Nissan,NISSAN,ALTIMA AWD,4,2.5,40.825,30
+2021,Nissan,NISSAN,ALTIMA AWD SR/PLATINUM,4,2.5,39.493,29
+2021,Nissan,NISSAN,ALTIMA SR,4,2.5,41.637,31
+2021,Nissan,NISSAN,ALTIMA SR/PLATINUM,4,2,38.622,29
+2021,Nissan,NISSAN,ALTIMA SV/SL,4,2.5,41.926,31
+2021,Nissan,NISSAN,KICKS,4,1.6,45.654,33
+2021,Nissan,NISSAN,MAXIMA,6,3.5,32.705,24
+2021,Nissan,NISSAN,SENTRA,4,2,45.593,33
+2021,Nissan,NISSAN,SENTRA SR,4,2,43.949,32
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Wraith,12,6.6,18.011,14
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Wraith Black Badge,12,6.6,18.011,14
+2021,Subaru,Subaru,IMPREZA 4-Door,4,2,43.093,32
+2021,Subaru,Subaru,IMPREZA 4-Door,4,2,35.114,26
+2021,Subaru,Subaru,IMPREZA 4-Door SPORT,4,2,41.423,30
+2021,Toyota,TOYOTA,AVALON,6,3.5,33.252,25
+2021,Toyota,TOYOTA,AVALON AWD,4,2.5,38.447,28
+2021,Toyota,TOYOTA,AVALON HYBRID,4,2.5,59.279,43
+2021,Toyota,TOYOTA,AVALON HYBRID XLE,4,2.5,61.098,44
+2021,Toyota,TOYOTA,AVALON TRD,6,3.5,32.476,25
+2021,Toyota,TOYOTA,AVALON XLE,6,3.5,34.529,26
+2021,Toyota,TOYOTA,CAMRY,6,3.5,34.91,26
+2021,Toyota,TOYOTA,CAMRY AWD LE/SE,4,2.5,38.557,29
+2021,Toyota,TOYOTA,CAMRY AWD XLE/XSE,4,2.5,38.447,28
+2021,Toyota,TOYOTA,CAMRY HYBRID LE,4,2.5,71.782,52
+2021,Toyota,TOYOTA,CAMRY HYBRID SE/XLE/XSE,4,2.5,62.929,46
+2021,Toyota,TOYOTA,CAMRY LE/SE,4,2.5,43.455,32
+2021,Toyota,TOYOTA,CAMRY TRD,6,3.5,33.369,25
+2021,Toyota,TOYOTA,CAMRY XLE/XSE,4,2.5,42.568,31
+2021,Toyota,TOYOTA,CAMRY XSE,6,3.5,34.106,26
+2021,Toyota,TOYOTA,PRIUS,4,1.8,74.786,52
+2021,Toyota,TOYOTA,PRIUS AWD,4,1.8,73.057,49
+2021,Toyota,TOYOTA,PRIUS Eco,4,1.8,80.847,56
+2021,Volkswagen Group of,Volkswagen,Passat,4,2,36.925,28
+2021,Volvo,"Volvo Cars of North America, LLC",S90 AWD,4,2,32.831,25
+2021,Volkswagen Group of,Audi,A8L,6,3,28.204,21
+2021,Volkswagen Group of,Audi,A8L,8,4,23.958,18
+2021,Volkswagen Group of,Audi,S8,8,4,21.264,16
+2021,BMW,BMW,740i,6,3,32.574,25
+2021,BMW,BMW,740i xDrive,6,3,30.098,23
+2021,BMW,BMW,750i xDrive,8,4.4,25.098,19
+2021,BMW,BMW,Alpina B7,8,4.4,25.098,19
+2021,BMW,BMW,M760i xDrive,12,6.6,19.828,16
+2021,BMW,BMW,X1 sDrive28i,4,2,36.463,27
+2021,BMW,BMW,X1 xDrive28i,4,2,34.405,26
+2021,FCA US LLC,Chrysler,300,6,3.6,29.892,23
+2021,FCA US LLC,Chrysler,300,8,5.7,24.654,19
+2021,FCA US LLC,Chrysler,300 AWD,6,3.6,27.992,21
+2021,FCA US LLC,Dodge,Charger,6,3.6,29.892,23
+2021,FCA US LLC,Dodge,Charger,8,5.7,24.654,19
+2021,FCA US LLC,Dodge,Charger,8,6.4,23.006,18
+2021,FCA US LLC,Dodge,Charger AWD,6,3.6,27.992,21
+2021,FCA US LLC,Dodge,Charger SRT Widebody,8,6.2,19.132,15
+2021,FCA US LLC,Dodge,Charger Widebody,8,6.4,23.006,18
+2021,Hyundai,GENESIS,G80 AWD,4,2.5,32.998,25
+2021,Hyundai,GENESIS,G80 AWD,6,3.5,27.564,21
+2021,Hyundai,GENESIS,G80 RWD,4,2.5,34.629,26
+2021,Hyundai,GENESIS,G80 RWD,6,3.5,28.577,22
+2021,Hyundai,GENESIS,G90 AWD,6,3.3,25.368,20
+2021,Hyundai,GENESIS,G90 AWD,8,5,23.699,18
+2021,Hyundai,GENESIS,G90 RWD,6,3.3,25.309,19
+2021,Hyundai,GENESIS,G90 RWD,8,5,24.03,19
+2021,Honda,Honda,ACCORD,4,1.5,46.53,33
+2021,Honda,Honda,ACCORD,4,2,69.138,48
+2021,Honda,Honda,ACCORD SPORT/TOURING,4,1.5,43.648,32
+2021,Honda,Honda,ACCORD SPORT/TOURING,4,2,61.138,43
+2021,Honda,Honda,ACCORD SPORT/TOURING,4,2,34.601,26
+2021,Honda,Honda,CIVIC 5DR,4,1.5,47.337,34
+2021,Honda,Honda,CIVIC 5DR,4,1.5,44.052,32
+2021,Honda,Honda,CIVIC 5DR,4,1.5,42.269,32
+2021,Honda,Honda,CIVIC 5DR,4,2,31.839,25
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq,4,1.6,73.886,55
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Ioniq Blue,4,1.6,80.484,59
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Sonata,4,1.6,41.435,30
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Sonata,4,2.5,34.376,27
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Sonata,4,2.5,43.464,32
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Sonata,4,2.5,41.584,31
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Sonata Hybrid,4,2,62.157,47
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Sonata Hybrid Blue,4,2,67.947,52
+2021,Kia,KIA,K5,4,1.6,43.964,32
+2021,Kia,KIA,K5,4,1.6,41.796,31
+2021,Kia,KIA,K5,4,2.5,35.341,27
+2021,Kia,KIA,K5 AWD,4,1.6,38.819,29
+2021,Maserati,MASERATI,QUATTROPORTE S,6,3,24.382,19
+2021,Maserati,MASERATI,QUATTROPORTE S Q4,6,3,23.886,19
+2021,Maserati,MASERATI,QUATTROPORTE TROFEO,8,3.8,20.14,16
+2021,Mercedes-Benz,Mercedes-Benz,S 500 4MATIC,6,3,31.299,24
+2021,Mercedes-Benz,Mercedes-Benz,S 580 4MATIC,8,4,25.34,20
+2021,Mercedes-Benz,Mercedes-Benz,S 580 4MATIC Maybach,8,4,24.322,19
+2021,Porsche,Porsche,Panamera,6,2.9,27.86,20
+2021,Porsche,Porsche,Panamera 4,6,2.9,27.087,20
+2021,Porsche,Porsche,Panamera 4 Executive,6,2.9,26.408,19
+2021,Porsche,Porsche,Panamera 4 ST,6,2.9,26.863,20
+2021,Porsche,Porsche,Panamera 4S,6,2.9,27.218,20
+2021,Porsche,Porsche,Panamera 4S Executive,6,2.9,25.835,19
+2021,Porsche,Porsche,Panamera 4S ST,6,2.9,25.835,19
+2021,Porsche,Porsche,Panamera GTS,8,4,23.404,17
+2021,Porsche,Porsche,Panamera GTS ST,8,4,22.698,17
+2021,Porsche,Porsche,Panamera Turbo S,8,4,22.729,17
+2021,Porsche,Porsche,Panamera Turbo S Executive,8,4,22.729,17
+2021,Porsche,Porsche,Panamera Turbo S ST,8,4,22.729,17
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost,12,6.7,17.908,14
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Ghost EWB,12,6.7,17.908,14
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom,12,6.7,18.24,14
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Phantom EWB,12,6.7,18.24,14
+2021,Subaru,Subaru,LEGACY,4,2.4,36.065,27
+2021,Subaru,Subaru,LEGACY,4,2.5,40.838,30
+2021,Volkswagen Group of,Volkswagen,Arteon,4,2,33.108,25
+2021,Volkswagen Group of,Volkswagen,Arteon 4Motion,4,2,30.647,24
+2021,Volkswagen Group of,Audi,A4 allroad quattro,4,2,35.36,26
+2021,Honda,Honda,HR-V AWD,4,1.8,38.682,29
+2021,Honda,Honda,HR-V AWD,4,1.8,38.031,28
+2021,Honda,Honda,HR-V FWD,4,1.8,41.245,30
+2021,Honda,Honda,HR-V FWD,4,1.8,41.245,30
+2021,Kia,KIA,Niro,4,1.6,70.777,49
+2021,Kia,KIA,Niro FE,4,1.6,71.092,50
+2021,Kia,KIA,Niro Touring,4,1.6,63.589,43
+2021,Kia,KIA,Soul,4,1.6,38.792,29
+2021,Kia,KIA,Soul,4,2,40.566,30
+2021,Kia,KIA,Soul,4,2,36.341,27
+2021,Kia,KIA,Soul Eco dynamics,4,2,42.917,31
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLA 35 4MATIC,4,2,33.458,25
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLA 45 4MATIC,4,2,29.95,23
+2021,Nissan,NISSAN,ROGUE SPORT,4,2,39.489,28
+2021,Nissan,NISSAN,ROGUE SPORT AWD,4,2,38.183,27
+2021,Subaru,Subaru,IMPREZA 5-Door,4,2,42.485,31
+2021,Subaru,Subaru,IMPREZA 5-Door,4,2,35.352,26
+2021,Subaru,Subaru,IMPREZA 5-Door SPORT,4,2,41.154,30
+2021,Subaru,Subaru,IMPREZA 5-Door SPORT,4,2,33.647,25
+2021,Volvo,"Volvo Cars of North America, LLC",V60 CC AWD,4,2,33.079,25
+2021,Volvo,"Volvo Cars of North America, LLC",V60 FWD,4,2,36.691,27
+2021,Volkswagen Group of,Audi,A6 Allroad,6,3,30.588,22
+2021,Volkswagen Group of,Audi,RS 6 Avant,8,4,22.824,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG E 63 S 4MATIC+ (SW),8,4,23.825,18
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLB 35 4MATIC,4,2,30.862,23
+2021,Mercedes-Benz,Mercedes-Benz,E 450 4MATIC All-Terrain (wagon),6,3,32.487,24
+2021,Nissan,NISSAN,MURANO AWD,6,3.5,30.035,23
+2021,Nissan,NISSAN,MURANO FWD,6,3.5,31.125,23
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Cullinan,12,6.7,18.157,14
+2021,Rolls-Royce,Rolls-Royce Motor Cars Limited,Cullinan Black Badge,12,6.7,18.157,14
+2021,Volvo,"Volvo Cars of North America, LLC",V90 AWD,4,2,32.831,25
+2021,Volvo,"Volvo Cars of North America, LLC",V90 CC AWD,4,2,31.268,24
+2021,Volvo,"Volvo Cars of North America, LLC",V90 FWD,4,2,36.691,26
+2021,General Motors,Chevrolet,COLORADO 2WD,4,2.5,28.263,22
+2021,General Motors,Chevrolet,COLORADO 2WD,4,2.8,30.828,23
+2021,General Motors,Chevrolet,COLORADO 2WD,6,3.6,27.306,21
+2021,General Motors,GMC,CANYON 2WD,4,2.5,28.263,22
+2021,General Motors,GMC,CANYON 2WD,4,2.8,30.828,23
+2021,General Motors,GMC,CANYON 2WD,6,3.6,27.306,21
+2021,Honda,Honda,RIDGELINE FWD,6,3.5,29.101,22
+2021,Toyota,TOYOTA,TACOMA 2WD,4,2.7,27.686,21
+2021,Toyota,TOYOTA,TACOMA 2WD,6,3.5,27.027,21
+2021,General Motors,Chevrolet,COLORADO 4WD,4,2.5,26.975,21
+2021,General Motors,Chevrolet,COLORADO 4WD,4,2.8,29.358,22
+2021,General Motors,Chevrolet,COLORADO 4WD,6,3.6,25.986,19
+2021,General Motors,Chevrolet,COLORADO ZR2 4WD,4,2.8,24.712,19
+2021,General Motors,Chevrolet,COLORADO ZR2 4WD,6,3.6,22.419,17
+2021,General Motors,GMC,CANYON 4WD,4,2.5,26.975,21
+2021,General Motors,GMC,CANYON 4WD,4,2.8,29.358,22
+2021,General Motors,GMC,CANYON 4WD,6,3.6,23.13,18
+2021,Toyota,TOYOTA,TACOMA 4WD,4,2.7,26.232,20
+2021,Toyota,TOYOTA,TACOMA 4WD,6,3.5,25.906,20
+2021,Toyota,TOYOTA,TACOMA 4WD,6,3.5,24.032,18
+2021,Toyota,TOYOTA,TACOMA 4WD D-CAB MT TRD-ORP/PRO,6,3.5,23.8,18
+2021,General Motors,Chevrolet,SILVERADO 2WD,4,2.7,29.187,21
+2021,General Motors,Chevrolet,SILVERADO 2WD,4,2.7,29.3,21
+2021,General Motors,Chevrolet,SILVERADO 2WD,6,3,35.543,27
+2021,General Motors,Chevrolet,SILVERADO 2WD,6,4.3,23.277,17
+2021,General Motors,Chevrolet,SILVERADO 2WD,8,5.3,21.017,16
+2021,General Motors,Chevrolet,SILVERADO 2WD,8,5.3,21.1,16
+2021,General Motors,Chevrolet,SILVERADO 2WD,8,5.3,21.891,17
+2021,General Motors,Chevrolet,SILVERADO 2WD,8,5.3,22.244,17
+2021,General Motors,Chevrolet,SILVERADO 2WD,8,5.3,25.108,19
+2021,Ford Motor Company,Ford,F150 PICKUP 2WD,6,2.7,28.854,22
+2021,Ford Motor Company,Ford,F150 PICKUP 2WD,6,3.5,26.479,20
+2021,Ford Motor Company,Ford,F150 PICKUP 2WD,6,3.5,26.684,20
+2021,Ford Motor Company,Ford,F150 PICKUP 2WD FFV,6,3.3,28.81,21
+2021,Ford Motor Company,Ford,F150 PICKUP 2WD FFV,8,5,24.892,19
+2021,Ford Motor Company,Ford,F150 PICKUP 2WD FFV,8,5,25.809,20
+2021,Ford Motor Company,Ford,F150 PICKUP 2WD HEV,6,3.5,33.978,25
+2021,Ford Motor Company,Ford,RANGER 2WD,4,2.3,30.854,23
+2021,General Motors,GMC,SIERRA 2WD,4,2.7,29.3,21
+2021,General Motors,GMC,SIERRA 2WD,4,2.7,29.3,21
+2021,General Motors,GMC,SIERRA 2WD,6,3,34.671,26
+2021,General Motors,GMC,SIERRA 2WD,6,4.3,23.277,17
+2021,General Motors,GMC,SIERRA 2WD,8,5.3,21.017,16
+2021,General Motors,GMC,SIERRA 2WD,8,5.3,21.1,16
+2021,General Motors,GMC,SIERRA 2WD,8,5.3,21.891,17
+2021,General Motors,GMC,SIERRA 2WD,8,5.3,22.082,17
+2021,General Motors,GMC,SIERRA 2WD,8,5.3,24.807,19
+2021,Nissan,NISSAN,FRONTIER 2WD,6,3.8,27.407,20
+2021,Nissan,NISSAN,TITAN 2WD,8,5.6,22.883,18
+2021,FCA US LLC,RAM,1500 4X2,6,3,34.723,26
+2021,FCA US LLC,RAM,1500 4X2,6,3.6,28.668,22
+2021,FCA US LLC,RAM,1500 4X2,8,5.7,24.675,19
+2021,FCA US LLC,RAM,1500 4X2,8,5.7,22.183,17
+2021,FCA US LLC,RAM,1500 Classic 4X2,6,3.6,25.622,20
+2021,FCA US LLC,RAM,1500 Classic 4X2,8,5.7,22.338,17
+2021,FCA US LLC,RAM,1500 HFE 4X2,6,3,35.334,26
+2021,FCA US LLC,RAM,1500 HFE 4X2,6,3.6,29.795,23
+2021,Toyota,TOYOTA,TUNDRA 2WD,8,5.7,18.886,15
+2021,General Motors,Chevrolet,SILVERADO 4WD,4,2.7,27.367,20
+2021,General Motors,Chevrolet,SILVERADO 4WD,4,2.7,27.338,20
+2021,General Motors,Chevrolet,SILVERADO 4WD,6,3,32.755,24
+2021,General Motors,Chevrolet,SILVERADO 4WD,6,4.3,22.1,17
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,5.3,22.638,18
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,5.3,23.982,19
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,5.3,20.299,16
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,5.3,21.47,17
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,5.3,20.532,16
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,5.3,20.935,16
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,5.3,23.859,18
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,6.2,22.361,17
+2021,General Motors,Chevrolet,SILVERADO 4WD,8,6.2,23.693,18
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,6,4.3,21.037,16
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,8,5.3,22.859,17
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,8,5.3,24.159,18
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,8,5.3,19.114,15
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,8,5.3,20.305,16
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,8,6.2,22.491,16
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,8,6.2,21.902,17
+2021,General Motors,Chevrolet,SILVERADO 4WD TRAILBOSS,8,6.2,23.827,17
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD,6,2.7,26.026,20
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD,6,2.7,27.115,21
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD,6,3,30.05,23
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD,6,3.5,25.441,19
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD,6,3.5,25.901,20
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD FFV,6,3.3,27.413,20
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD FFV,8,5,23.644,18
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD FFV,8,5,24.052,19
+2021,Ford Motor Company,Ford,F150 PICKUP 4WD HEV,6,3.5,32.223,24
+2021,Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,6,3.5,22.883,18
+2021,Ford Motor Company,Ford,F150 PICKUP TREMOR 4WD,6,3.5,23.124,18
+2021,Ford Motor Company,Ford,F150 RAPTOR 37 4WD,6,3.5,19.991,15
+2021,Ford Motor Company,Ford,F150 RAPTOR 37 4WD,6,3.5,20.518,15
+2021,Ford Motor Company,Ford,F150 RAPTOR 4WD,6,3.5,20.409,15
+2021,Ford Motor Company,Ford,F150 RAPTOR 4WD,6,3.5,20.722,16
+2021,Ford Motor Company,Ford,RANGER 4WD,4,2.3,28.633,22
+2021,Ford Motor Company,Ford,RANGER TREMOR 4WD,4,2.3,26.951,19
+2021,General Motors,GMC,SIERRA 4WD,4,2.7,25.769,19
+2021,General Motors,GMC,SIERRA 4WD,4,2.7,26.467,19
+2021,General Motors,GMC,SIERRA 4WD,6,3,32.755,24
+2021,General Motors,GMC,SIERRA 4WD,6,4.3,22.1,17
+2021,General Motors,GMC,SIERRA 4WD,8,5.3,22.732,18
+2021,General Motors,GMC,SIERRA 4WD,8,5.3,24.053,19
+2021,General Motors,GMC,SIERRA 4WD,8,5.3,20.3,16
+2021,General Motors,GMC,SIERRA 4WD,8,5.3,20.589,16
+2021,General Motors,GMC,SIERRA 4WD,8,5.3,21.765,17
+2021,General Motors,GMC,SIERRA 4WD,8,5.3,20.262,16
+2021,General Motors,GMC,SIERRA 4WD,8,5.3,22.773,18
+2021,General Motors,GMC,SIERRA 4WD,8,6.2,21.607,16
+2021,General Motors,GMC,SIERRA 4WD,8,6.2,22.869,17
+2021,General Motors,GMC,SIERRA 4WD AT4,6,3,32.755,24
+2021,General Motors,GMC,SIERRA 4WD AT4,8,5.3,22.859,17
+2021,General Motors,GMC,SIERRA 4WD AT4,8,5.3,24.159,18
+2021,General Motors,GMC,SIERRA 4WD AT4,8,5.3,21.073,16
+2021,General Motors,GMC,SIERRA 4WD AT4,8,5.3,20.935,16
+2021,General Motors,GMC,SIERRA 4WD AT4,8,5.3,23.747,18
+2021,General Motors,GMC,SIERRA 4WD AT4,8,6.2,22.45,16
+2021,General Motors,GMC,SIERRA 4WD AT4,8,6.2,23.785,17
+2021,Honda,Honda,RIDGELINE AWD,6,3.5,27.16,21
+2021,FCA US LLC,Jeep,Gladiator 4X4,6,3.6,24.822,19
+2021,FCA US LLC,Jeep,Gladiator 4X4,6,3.6,24.245,19
+2021,FCA US LLC,Jeep,Gladiator EcoDiesel 4x4,6,3,31.899,24
+2021,FCA US LLC,Jeep,Gladiator Rubicon EcoDiesel 4x4,6,3,31.899,24
+2021,Nissan,NISSAN,FRONTIER 4WD,6,3.8,26.171,19
+2021,Nissan,NISSAN,TITAN 4WD,8,5.6,22.779,18
+2021,Nissan,NISSAN,TITAN 4WD PRO-4X,8,5.6,22.182,17
+2021,FCA US LLC,RAM,1500 4X4,6,3,32.17,24
+2021,FCA US LLC,RAM,1500 4X4,6,3.6,27.954,21
+2021,FCA US LLC,RAM,1500 4X4,8,5.7,24.421,19
+2021,FCA US LLC,RAM,1500 4X4,8,5.7,21.879,17
+2021,FCA US LLC,RAM,1500 Classic 4X4,6,3.6,24.254,19
+2021,FCA US LLC,RAM,1500 Classic 4X4,8,5.7,21.701,17
+2021,FCA US LLC,RAM,1500 TRX 4x4,8,6.2,15.01,12
+2021,Toyota,TOYOTA,TUNDRA 4WD,8,5.7,18.544,14
+2021,Ford Motor Company,Ford,TRANSIT T150 WAGON 2WD FFV,6,3.5,21.17,16
+2021,Ford Motor Company,Ford,TRANSIT T150 WAGON 4WD FFV,6,3.5,20.192,16
+2021,General Motors,Cadillac,XT5 HEARSE FWD,4,2,28.229,21
+2021,General Motors,Cadillac,XT5 LIMO FWD,4,2,28.229,21
+2021,Ford Motor Company,Ford,RANGER 2WD INCOMPLETE,4,2.3,25.592,18
+2021,Ford Motor Company,Ford,TRANSIT CONNECT USPS,4,2.5,29.286,22
+2021,Ford Motor Company,Ford,TRANSIT CONNECT VAN FFV,4,2,35.651,25
+2021,Ford Motor Company,Ford,Transit Connect Van FWD,4,2,35.651,25
+2021,Ford Motor Company,Ford,Transit Connect Van FWD,4,2.5,29.286,22
+2021,Ford Motor Company,Ford,TRANSIT CONNECT WAGON LWB FFV,4,2,35.107,26
+2021,Ford Motor Company,Ford,Transit Connect Wagon LWB FWD,4,2,35.107,26
+2021,Ford Motor Company,Ford,Transit Connect Wagon LWB FWD,4,2.5,29.186,22
+2021,Mercedes-Benz,Mercedes-Benz,GLA 250,4,2,38.003,28
+2021,Mercedes-Benz,Mercedes-Benz,GLB 250,4,2,35.218,26
+2021,Mercedes-Benz,Mercedes-Benz,Metris (Cargo Van),4,2,28.294,21
+2021,Mercedes-Benz,Mercedes-Benz,"Metris (Cargo Van, LWB)",4,2,28.294,21
+2021,Mercedes-Benz,Mercedes-Benz,Metris (Passenger Van),4,2,27.073,19
+2021,Nissan,NISSAN,NV200 CARGO VAN,4,2,34.048,25
+2021,FCA US LLC,RAM,Promaster City,4,2.4,31.459,24
+2021,General Motors,Cadillac,XT5 HEARSE AWD,4,2,28.229,21
+2021,General Motors,Cadillac,XT5 LIMO AWD,4,2,28.229,21
+2021,General Motors,Chevrolet,SILVERADO 2WD CAB CHASSIS,6,4.3,23.277,17
+2021,General Motors,Chevrolet,SILVERADO 2WD CAB CHASSIS,8,5.3,19.114,14
+2021,General Motors,Chevrolet,SILVERADO 2WD CAB CHASSIS,8,5.3,20.021,15
+2021,General Motors,Chevrolet,SILVERADO 4WD CAB CHASSIS,6,4.3,21.037,15
+2021,General Motors,Chevrolet,SILVERADO 4WD CAB CHASSIS,8,5.3,20.285,14
+2021,General Motors,Chevrolet,SILVERADO 4WD CAB CHASSIS,8,5.3,21.891,15
+2021,General Motors,GMC,SIERRA 2WD CAB CHASSIS,6,4.3,23.277,17
+2021,General Motors,GMC,SIERRA 2WD CAB CHASSIS,8,5.3,19.114,14
+2021,General Motors,GMC,SIERRA 2WD CAB CHASSIS,8,5.3,20.021,15
+2021,General Motors,GMC,SIERRA 4WD CAB CHASSIS,6,4.3,21.037,15
+2021,General Motors,GMC,SIERRA 4WD CAB CHASSIS,8,5.3,20.285,14
+2021,General Motors,GMC,SIERRA 4WD CAB CHASSIS,8,5.3,21.891,15
+2021,FCA US LLC,Chrysler,Pacifica,6,3.6,29.181,22
+2021,FCA US LLC,Chrysler,Voyager,6,3.6,29.181,22
+2021,Honda,Honda,ODYSSEY FWD,6,3.5,29.531,22
+2021,Kia,KIA,Sedona,6,3.3,27.371,21
+2021,Toyota,TOYOTA,SIENNA,4,2.5,49.081,36
+2021,FCA US LLC,Chrysler,Pacifica AWD,6,3.6,25.457,20
+2021,Toyota,TOYOTA,SIENNA AWD,4,2.5,47.671,35
+2021,Honda,Acura,RDX FWD,4,2,32.722,24
+2021,Honda,Acura,RDX FWD A-SPEC,4,2,31.868,24
+2021,FCA US LLC,ALFA ROMEO,Stelvio,4,2,33.776,25
+2021,BMW,BMW,X3 sDrive30i,4,2,35.699,27
+2021,General Motors,Buick,ENCORE FWD,4,1.4,36.764,27
+2021,General Motors,Buick,ENCORE FWD,4,1.4,36.987,27
+2021,General Motors,Buick,ENCORE GX FWD,3,1.2,41.578,29
+2021,General Motors,Buick,ENCORE GX FWD,3,1.3,42.871,31
+2021,General Motors,Buick,ENVISION FWD,4,2,35.775,26
+2021,General Motors,Cadillac,XT4 FWD,4,2,35.356,26
+2021,General Motors,Cadillac,XT5 FWD,4,2,33.635,24
+2021,General Motors,Cadillac,XT5 FWD,6,3.6,27.818,21
+2021,General Motors,Cadillac,XT6 FWD,4,2,31.31,23
+2021,General Motors,Cadillac,XT6 FWD,6,3.6,27.818,21
+2021,General Motors,Chevrolet,BLAZER FWD,4,2,33.9,25
+2021,General Motors,Chevrolet,BLAZER FWD,4,2.5,31.969,23
+2021,General Motors,Chevrolet,BLAZER FWD,6,3.6,29.724,22
+2021,General Motors,Chevrolet,EQUINOX FWD,4,1.5,39.11,28
+2021,General Motors,Chevrolet,TRAILBLAZER FWD,3,1.2,41.571,29
+2021,General Motors,Chevrolet,TRAILBLAZER FWD,3,1.3,43.316,31
+2021,General Motors,Chevrolet,TRAX FWD,4,1.4,36.764,27
+2021,General Motors,Chevrolet,TRAX FWD,4,1.4,38.576,28
+2021,Ford Motor Company,Ford,ECOSPORT FWD,3,1,40.111,28
+2021,Ford Motor Company,Ford,EDGE FWD,4,2,31.726,24
+2021,Ford Motor Company,Ford,ESCAPE FWD,3,1.5,41.262,30
+2021,Ford Motor Company,Ford,ESCAPE FWD HEV,4,2.5,58.345,41
+2021,Hyundai,GENESIS,GV80 RWD,4,2.5,30.676,23
+2021,General Motors,GMC,TERRAIN FWD,4,1.5,37.279,27
+2021,Honda,Honda,CR-V FWD,4,1.5,42.398,30
+2021,Honda,Honda,PASSPORT FWD,6,3.5,28.75,22
+2021,Honda,Honda,PILOT FWD,6,3.5,29.911,23
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,4,1.6,39.786,30
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Kona FWD,4,2,40.577,30
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe FWD,4,2.5,32.644,25
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe FWD,4,2.5,36.443,26
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,4,2,34.025,25
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,4,2.4,33.437,25
+2021,Nissan,INFINITI,QX50,4,2,34.881,26
+2021,FCA US LLC,Jeep,Cherokee FWD,4,2,34.388,26
+2021,FCA US LLC,Jeep,Cherokee FWD,4,2.4,33.51,25
+2021,FCA US LLC,Jeep,Cherokee FWD,6,3.2,30.244,23
+2021,FCA US LLC,Jeep,Compass 4X2,4,2.4,33.804,25
+2021,FCA US LLC,Jeep,Renegade 4x2,4,1.3,36.148,27
+2021,FCA US LLC,Jeep,Renegade 4x2,4,2.4,33.034,25
+2021,Kia,KIA,Seltos FWD,4,2,42.876,31
+2021,Kia,KIA,Sorento FWD,4,2.5,33.076,25
+2021,Kia,KIA,Sorento FWD,4,2.5,36.206,26
+2021,Kia,KIA,Sorento Hybrid,4,1.6,52.026,37
+2021,Kia,KIA,Sportage FWD,4,2,30.259,23
+2021,Kia,KIA,Sportage FWD,4,2.4,34.434,26
+2021,Kia,KIA,Telluride FWD,6,3.8,29.686,23
+2021,Toyota,LEXUS,NX 300,4,2,32.794,25
+2021,Toyota,LEXUS,RX 350,6,3.5,29.776,23
+2021,Toyota,LEXUS,RX 350 L,6,3.5,28.874,22
+2021,Ford Motor Company,Lincoln,CORSAIR FWD,4,2,32.801,25
+2021,Ford Motor Company,Lincoln,NAUTILUS FWD,4,2,31.726,23
+2021,Ford Motor Company,Lincoln,NAUTILUS FWD,4,2,30.967,23
+2021,MAZDA,MAZDA,CX-30 2WD,4,2.5,37.555,28
+2021,MAZDA,MAZDA,CX-30 2WD,4,2.5,38.222,28
+2021,MAZDA,MAZDA,CX-5 2WD,4,2.5,37.12,28
+2021,MAZDA,MAZDA,CX-5 2WD,4,2.5,33.26,25
+2021,MAZDA,MAZDA,CX-9 2WD,4,2.5,32.35,24
+2021,Mercedes-Benz,Mercedes-Benz,GLC 300,4,2,32.849,25
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 2WD,4,2,35.691,27
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 2WD,4,2.4,34.963,25
+2021,Nissan,NISSAN,ROGUE FWD,3,1.5,45.903,33
+2021,Nissan,NISSAN,ROGUE FWD,4,2.5,41.431,30
+2021,Nissan,NISSAN,ROGUE FWD SL/PLATINUM,3,1.5,45.02,32
+2021,Nissan,NISSAN,ROGUE FWD SV/SL/PLATINUM,4,2.5,39.635,29
+2021,Toyota,TOYOTA,HIGHLANDER,6,3.5,31.36,24
+2021,Toyota,TOYOTA,HIGHLANDER,6,3.5,30.072,23
+2021,Toyota,TOYOTA,HIGHLANDER HYBRID,4,2.5,48.799,36
+2021,Toyota,TOYOTA,RAV4,4,2.5,41.402,30
+2021,Toyota,TOYOTA,RAV4,4,2.5,40.593,30
+2021,Volkswagen Group of,Volkswagen,Atlas,4,2,29.906,22
+2021,Volkswagen Group of,Volkswagen,Atlas,6,3.6,24.979,19
+2021,Volkswagen Group of,Volkswagen,Atlas Cross Sport,4,2,29.842,22
+2021,Volkswagen Group of,Volkswagen,Atlas Cross Sport,6,3.6,25.582,20
+2021,Volkswagen Group of,Volkswagen,Tiguan,4,2,33.518,25
+2021,Volvo,"Volvo Cars of North America, LLC",XC40 FWD,4,2,34.708,26
+2021,Volvo,"Volvo Cars of North America, LLC",XC60 FWD,4,2,32.706,25
+2021,Honda,Acura,RDX AWD,4,2,31.487,23
+2021,Honda,Acura,RDX AWD A-SPEC,4,2,30.886,23
+2021,FCA US LLC,ALFA ROMEO,Stelvio AWD,4,2,32.419,24
+2021,FCA US LLC,ALFA ROMEO,Stelvio AWD,6,2.9,24.865,19
+2021,Volkswagen Group of,Audi,Q3 quattro,4,2,33.556,25
+2021,Volkswagen Group of,Audi,Q3 S-line quattro,4,2,30.261,23
+2021,Volkswagen Group of,Audi,Q5,4,2,33.779,25
+2021,Volkswagen Group of,Audi,Q5 Sportback,4,2,33.779,25
+2021,Volkswagen Group of,Audi,SQ5,6,3,26.941,20
+2021,Volkswagen Group of,Audi,SQ5 Sportback,6,3,26.941,20
+2021,BMW,BMW,X3 M,6,3,20.734,16
+2021,BMW,BMW,X3 M Competition,6,3,20.734,16
+2021,BMW,BMW,X3 M40i,6,3,30.593,23
+2021,BMW,BMW,X3 xDrive30i,4,2,33.719,25
+2021,BMW,BMW,X4 M,6,3,20.734,16
+2021,BMW,BMW,X4 M Competition,6,3,20.734,16
+2021,BMW,BMW,X4 M40i,6,3,30.593,23
+2021,BMW,BMW,X4 xDrive30i,4,2,33.719,25
+2021,General Motors,Buick,ENCORE AWD,4,1.4,35.241,26
+2021,General Motors,Buick,ENCORE AWD,4,1.4,34.944,26
+2021,General Motors,Buick,ENCORE GX AWD,3,1.3,38.041,28
+2021,General Motors,Buick,ENVISION AWD,4,2,33.555,25
+2021,General Motors,Cadillac,XT4 AWD,4,2,33.555,24
+2021,General Motors,Cadillac,XT5 AWD,4,2,31.793,23
+2021,General Motors,Cadillac,XT5 AWD,6,3.6,27.384,21
+2021,General Motors,Cadillac,XT6 AWD,4,2,31.793,23
+2021,General Motors,Cadillac,XT6 AWD,6,3.6,26.782,21
+2021,General Motors,Chevrolet,BLAZER AWD,4,2,32.487,24
+2021,General Motors,Chevrolet,BLAZER AWD,6,3.6,28.16,21
+2021,General Motors,Chevrolet,EQUINOX AWD,4,1.5,38.078,27
+2021,General Motors,Chevrolet,TRAILBLAZER AWD,3,1.3,38.931,28
+2021,General Motors,Chevrolet,TRAX AWD,4,1.4,35.241,26
+2021,General Motors,Chevrolet,TRAX AWD,4,1.4,34.944,26
+2021,FCA US LLC,FIAT,500X AWD,4,1.3,35.318,26
+2021,Ford Motor Company,Ford,BRONCO 4WD,4,2.3,28.946,21
+2021,Ford Motor Company,Ford,BRONCO 4WD,4,2.3,28.606,21
+2021,Ford Motor Company,Ford,BRONCO 4WD,6,2.7,26.466,19
+2021,Ford Motor Company,Ford,BRONCO BADLANDS 4WD,4,2.3,23.919,17
+2021,Ford Motor Company,Ford,BRONCO BADLANDS 4WD,4,2.3,22.561,17
+2021,Ford Motor Company,Ford,BRONCO BADLANDS 4WD,6,2.7,23.828,17
+2021,Ford Motor Company,Ford,BRONCO BLACK DIAMOND 4WD,4,2.3,25.693,18
+2021,Ford Motor Company,Ford,BRONCO BLACK DIAMOND 4WD,4,2.3,24.405,18
+2021,Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,4,2.3,28.207,18
+2021,Ford Motor Company,Ford,BRONCO SASQUATCH 4WD,6,2.7,23.023,17
+2021,Ford Motor Company,Ford,BRONCO SPORT 4WD,3,1.5,36.87,26
+2021,Ford Motor Company,Ford,BRONCO SPORT 4WD,4,2,31.409,23
+2021,Ford Motor Company,Ford,ECOSPORT AWD,4,2,34.213,25
+2021,Ford Motor Company,Ford,EDGE AWD,4,2,30.941,23
+2021,Ford Motor Company,Ford,EDGE AWD,4,2,30.673,23
+2021,Ford Motor Company,Ford,EDGE AWD,6,2.7,27.522,21
+2021,Ford Motor Company,Ford,ESCAPE AWD,3,1.5,39.24,28
+2021,Ford Motor Company,Ford,ESCAPE AWD,4,2,34.603,26
+2021,Ford Motor Company,Ford,ESCAPE AWD HEV,4,2.5,57.043,40
+2021,General Motors,GMC,TERRAIN AWD,4,1.5,35.888,26
+2021,Honda,Honda,CR-V AWD,4,1.5,40.217,29
+2021,Honda,Honda,CR-V AWD,4,2,54.324,38
+2021,Honda,Honda,PASSPORT AWD,6,3.5,27.309,21
+2021,Honda,Honda,PILOT AWD,6,3.5,29.143,22
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,4,1.6,37.063,27
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Kona AWD,4,2,36.949,27
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD,4,2.5,31.649,24
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe AWD,4,2.5,32.692,24
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid,4,1.6,43.312,32
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Santa Fe Hybrid Blue,4,1.6,46.602,34
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,4,2,30.942,23
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,4,2.4,30.761,23
+2021,Nissan,INFINITI,QX50 AWD,4,2,33.69,25
+2021,Jaguar Land Rover L,Jaguar,E-PACE,4,2,30.091,23
+2021,Jaguar Land Rover L,Jaguar,E-PACE MHEV,4,2,30.129,23
+2021,Jaguar Land Rover L,Jaguar,F-PACE P340 MHEV,6,3,29.235,22
+2021,Jaguar Land Rover L,Jaguar,F-PACE P400 MHEV,6,3,28.917,22
+2021,Jaguar Land Rover L,Jaguar,F-PACE SVR,8,5,22.639,18
+2021,FCA US LLC,Jeep,Cherokee 4X4,4,2,31.883,24
+2021,FCA US LLC,Jeep,Cherokee 4X4,4,2.4,32.013,24
+2021,FCA US LLC,Jeep,Cherokee 4X4,6,3.2,29.133,22
+2021,FCA US LLC,Jeep,Cherokee 4x4 Active Drive II,4,2,30.38,23
+2021,FCA US LLC,Jeep,Cherokee 4x4 Active Drive II,6,3.2,27.812,21
+2021,FCA US LLC,Jeep,Cherokee Trailhawk 4X4,6,3.2,27.037,21
+2021,FCA US LLC,Jeep,Compass 4X4,4,2.4,33.034,25
+2021,FCA US LLC,Jeep,Renegade 4x4,4,1.3,34.824,26
+2021,FCA US LLC,Jeep,Renegade 4x4,4,2.4,31.671,24
+2021,FCA US LLC,Jeep,Renegade Trailhawk 4x4,4,1.3,32.264,24
+2021,FCA US LLC,Jeep,Wrangler 2dr 4X4,4,2,31.566,23
+2021,FCA US LLC,Jeep,Wrangler 2dr 4X4,6,3.6,26.69,20
+2021,FCA US LLC,Jeep,Wrangler 2dr 4X4,6,3.6,28.105,21
+2021,FCA US LLC,Jeep,Wrangler 2dr 4X4,6,3.6,25.89,20
+2021,FCA US LLC,Jeep,Wrangler 4dr 4X4,4,2,31.423,22
+2021,FCA US LLC,Jeep,Wrangler 4dr 4X4,6,3.6,26.712,20
+2021,FCA US LLC,Jeep,Wrangler 4dr 4X4,6,3.6,27.491,21
+2021,FCA US LLC,Jeep,Wrangler 4dr 4X4,6,3.6,25.132,19
+2021,FCA US LLC,Jeep,Wrangler 4dr 4X4,8,6.4,18.184,14
+2021,FCA US LLC,Jeep,Wrangler 4dr EcoDiesel 4x4,6,3,32.867,25
+2021,FCA US LLC,Jeep,Wrangler Rubic 4dr EcoDiesel 4x4,6,3,32.867,23
+2021,Kia,KIA,Seltos AWD,4,1.6,36.378,27
+2021,Kia,KIA,Seltos AWD,4,2,38.686,29
+2021,Kia,KIA,Sorento AWD,4,2.5,31.569,24
+2021,Kia,KIA,Sorento AWD,4,2.5,34.057,24
+2021,Kia,KIA,Sportage AWD,4,2,28.072,21
+2021,Kia,KIA,Sportage AWD,4,2.4,30.63,23
+2021,Kia,KIA,Telluride AWD,6,3.8,27.208,21
+2021,Jaguar Land Rover L,Land Rover,Discovery Sport,4,2,27.171,20
+2021,Jaguar Land Rover L,Land Rover,Evoque,4,2,29.705,22
+2021,Jaguar Land Rover L,Land Rover,Range Rover Velar,8,5,22.424,17
+2021,Jaguar Land Rover L,Land Rover,Range Rover Velar P340 MHEV,6,3,29.46,22
+2021,Jaguar Land Rover L,Land Rover,Range Rover Velar P400 MHEV,6,3,27.384,21
+2021,Toyota,LEXUS,NX 300 AWD,4,2,32.532,24
+2021,Toyota,LEXUS,NX 300 AWD F SPORT,4,2,31.42,24
+2021,Toyota,LEXUS,NX 300h AWD,4,2.5,43.617,31
+2021,Toyota,LEXUS,RX 350 AWD,6,3.5,28.646,22
+2021,Toyota,LEXUS,RX 350 L AWD,6,3.5,27.805,21
+2021,Ford Motor Company,Lincoln,CORSAIR AWD,4,2,31.932,24
+2021,Ford Motor Company,Lincoln,CORSAIR AWD,4,2.3,31.585,24
+2021,Ford Motor Company,Lincoln,NAUTILUS AWD,4,2,30.941,22
+2021,Ford Motor Company,Lincoln,NAUTILUS AWD,4,2,30.673,22
+2021,Ford Motor Company,Lincoln,NAUTILUS AWD,6,2.7,27.522,21
+2021,MAZDA,MAZDA,CX-30 4WD,4,2.5,33.509,25
+2021,MAZDA,MAZDA,CX-30 4WD,4,2.5,36.99,26
+2021,MAZDA,MAZDA,CX-30 4WD,4,2.5,35.489,26
+2021,MAZDA,MAZDA,CX-5 4WD,4,2.5,35.161,26
+2021,MAZDA,MAZDA,CX-5 4WD,4,2.5,31.702,24
+2021,MAZDA,MAZDA,CX-9 4WD,4,2.5,29.779,23
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC,6,3,26.544,20
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLC 43 4MATIC (coupe),6,3,26.076,20
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLC 63 4MATIC+,8,4,22.357,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLC 63 4MATIC+ (coupe),8,4,22.381,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLC 63 S 4MATIC+ (coupe),8,4,22.381,17
+2021,Mercedes-Benz,Mercedes-Benz,GLA 250 4MATIC,4,2,36.454,27
+2021,Mercedes-Benz,Mercedes-Benz,GLB 250 4MATIC,4,2,34.025,26
+2021,Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC,4,2,31.023,23
+2021,Mercedes-Benz,Mercedes-Benz,GLC 300 4MATIC (Coupe),4,2,32.517,24
+2021,Mercedes-Benz,Mercedes-Benz,GLE 350,4,2,28.897,22
+2021,Mercedes-Benz,Mercedes-Benz,GLE 350 4MATIC,4,2,28.43,22
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 4WD,4,2,34.208,26
+2021,Mitsubishi Motors Co,Mitsubishi Motors Corporation,Outlander Sport 4WD,4,2.4,33.646,25
+2021,Nissan,NISSAN,ROGUE AWD,3,1.5,45.109,33
+2021,Nissan,NISSAN,ROGUE AWD,4,2.5,38.888,29
+2021,Nissan,NISSAN,ROGUE AWD SL/PLATINUM,3,1.5,43.434,32
+2021,Nissan,NISSAN,ROGUE AWD SV/SL/PLATINUM,4,2.5,38.67,28
+2021,Porsche,Porsche,Macan,4,2,27.809,21
+2021,Porsche,Porsche,Macan GTS,6,2.9,25.104,19
+2021,Porsche,Porsche,Macan S,6,3,27.607,20
+2021,Porsche,Porsche,Macan Turbo,6,2.9,24.945,19
+2021,Subaru,Subaru,CROSSTREK AWD,4,2,40.735,30
+2021,Subaru,Subaru,CROSSTREK AWD,4,2,33.193,25
+2021,Subaru,Subaru,CROSSTREK AWD,4,2.5,39.906,29
+2021,Subaru,Subaru,FORESTER AWD,4,2.5,38.793,29
+2021,Subaru,Subaru,OUTBACK AWD,4,2.4,34.489,26
+2021,Subaru,Subaru,OUTBACK AWD,4,2.5,38.961,29
+2021,Toyota,TOYOTA,HIGHLANDER AWD,6,3.5,30.019,23
+2021,Toyota,TOYOTA,RAV4 AWD,4,2.5,37.705,28
+2021,Toyota,TOYOTA,RAV4 AWD,4,2.5,39.715,29
+2021,Toyota,TOYOTA,RAV4 AWD LE,4,2.5,40.544,30
+2021,Toyota,TOYOTA,RAV4 AWD TRD OFFROAD,4,2.5,37.063,28
+2021,Toyota,TOYOTA,RAV4 HYBRID AWD,4,2.5,55.777,40
+2021,Toyota,TOYOTA,VENZA AWD,4,2.5,53.49,39
+2021,Volkswagen Group of,Volkswagen,Atlas 4Motion 2.0L,4,2,29.069,22
+2021,Volkswagen Group of,Volkswagen,Atlas Cross Sport 4Motion,4,2,29.038,22
+2021,Volkswagen Group of,Volkswagen,Atlas Cross Sport 4Motion,6,3.6,24.913,19
+2021,Volkswagen Group of,Volkswagen,Tiguan 4Motion,4,2,31.561,24
+2021,Volvo,"Volvo Cars of North America, LLC",XC40 AWD,4,2,32.667,25
+2021,Volvo,"Volvo Cars of North America, LLC",XC60 AWD,4,2,30.101,23
+2021,Volvo,"Volvo Cars of North America, LLC",XC60 AWD,4,2,31.183,24
+2021,BMW,BMW,X5 sDrive40i,6,3,30.307,23
+2021,BMW,BMW,X6 sDrive40i,6,3,30.307,23
+2021,General Motors,Buick,ENCLAVE FWD,6,3.6,27.641,21
+2021,General Motors,Cadillac,ESCALADE 2WD,6,3,30.759,23
+2021,General Motors,Cadillac,ESCALADE 2WD,8,6.2,21.366,16
+2021,General Motors,Cadillac,ESCALADE 2WD,8,6.2,22.89,17
+2021,General Motors,Chevrolet,SUBURBAN 2WD,6,3,30.759,23
+2021,General Motors,Chevrolet,SUBURBAN 2WD,8,5.3,22.832,17
+2021,General Motors,Chevrolet,SUBURBAN 2WD,8,5.3,24.054,18
+2021,General Motors,Chevrolet,SUBURBAN 2WD,8,6.2,21.657,16
+2021,General Motors,Chevrolet,SUBURBAN 2WD,8,6.2,23.215,17
+2021,General Motors,Chevrolet,TAHOE 2WD,6,3,32.028,24
+2021,General Motors,Chevrolet,TAHOE 2WD,8,5.3,22.832,17
+2021,General Motors,Chevrolet,TAHOE 2WD,8,5.3,24.054,18
+2021,General Motors,Chevrolet,TAHOE 2WD,8,6.2,21.657,16
+2021,General Motors,Chevrolet,TAHOE 2WD,8,6.2,23.215,17
+2021,General Motors,Chevrolet,TRAVERSE FWD,6,3.6,27.641,21
+2021,FCA US LLC,Dodge,Durango RWD,6,3.6,28.114,21
+2021,FCA US LLC,Dodge,Durango RWD,8,5.7,21.702,17
+2021,Ford Motor Company,Ford,EXPEDITION 2WD,6,3.5,25.341,19
+2021,Ford Motor Company,Ford,EXPEDITION MAX 2WD,6,3.5,25.341,19
+2021,Ford Motor Company,Ford,EXPLORER HEV RWD,6,3.3,37.027,27
+2021,Ford Motor Company,Ford,EXPLORER RWD,4,2.3,31.459,24
+2021,Ford Motor Company,Ford,EXPLORER RWD,4,2.3,31.459,24
+2021,Ford Motor Company,Ford,EXPLORER RWD,6,3,26.908,21
+2021,General Motors,GMC,ACADIA FWD,4,2,33.899,25
+2021,General Motors,GMC,ACADIA FWD,4,2.5,31.969,23
+2021,General Motors,GMC,ACADIA FWD,6,3.6,29.007,22
+2021,General Motors,GMC,YUKON 2WD,6,3,30.759,23
+2021,General Motors,GMC,YUKON 2WD,8,5.3,22.832,17
+2021,General Motors,GMC,YUKON 2WD,8,5.3,24.054,18
+2021,General Motors,GMC,YUKON 2WD,8,6.2,21.657,16
+2021,General Motors,GMC,YUKON 2WD,8,6.2,23.215,17
+2021,General Motors,GMC,YUKON XL 2WD,6,3,30.759,23
+2021,General Motors,GMC,YUKON XL 2WD,8,5.3,22.832,17
+2021,General Motors,GMC,YUKON XL 2WD,8,5.3,24.054,18
+2021,General Motors,GMC,YUKON XL 2WD,8,6.2,20.843,16
+2021,General Motors,GMC,YUKON XL 2WD,8,6.2,22.331,16
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Palisade FWD,6,3.8,28.849,22
+2021,Nissan,INFINITI,QX80 2WD,8,5.6,20.799,16
+2021,FCA US LLC,Jeep,Grand Cherokee 4X2,6,3.6,28.114,21
+2021,FCA US LLC,Jeep,Grand Cherokee L 4X2,6,3.6,28.006,21
+2021,Ford Motor Company,Lincoln,AVIATOR RWD,6,3,26.908,21
+2021,Ford Motor Company,Lincoln,NAVIGATOR 2WD,6,3.5,23.669,18
+2021,Ford Motor Company,Lincoln,NAVIGATOR L 2WD,6,3.5,23.669,18
+2021,Nissan,NISSAN,ARMADA 2WD,8,5.6,21.147,16
+2021,Toyota,TOYOTA,4RUNNER 2WD,6,4,23.452,17
+2021,Toyota,TOYOTA,SEQUOIA 2WD,8,5.7,18.645,15
+2021,Volvo,"Volvo Cars of North America, LLC",XC90 FWD,4,2,32.511,25
+2021,aston martin,Aston Martin Lagonda Ltd,DBX V8,8,4,19.802,15
+2021,Volkswagen Group of,Audi,Q7,4,2,27.706,21
+2021,Volkswagen Group of,Audi,Q7,6,3,27.037,20
+2021,Volkswagen Group of,Audi,Q8,6,3,27.037,20
+2021,Volkswagen Group of,Audi,RS Q8,8,4,20.453,15
+2021,Volkswagen Group of,Audi,SQ7,8,4,21.771,17
+2021,Volkswagen Group of,Audi,SQ8,8,4,21.771,17
+2021,Volkswagen Group of,Bentley,Bentayga,8,4,21.943,18
+2021,Volkswagen Group of,Bentley,Bentayga,12,6,18.325,14
+2021,BMW,BMW,ALPINA XB7,8,4.4,22.075,17
+2021,BMW,BMW,X5 M,8,4.4,19.143,15
+2021,BMW,BMW,X5 M Competition,8,4.4,19.143,15
+2021,BMW,BMW,X5 M50i,8,4.4,23.382,18
+2021,BMW,BMW,X5 xDrive40i,6,3,29.778,23
+2021,BMW,BMW,X6 M,8,4.4,19.143,15
+2021,BMW,BMW,X6 M Competition,8,4.4,19.143,15
+2021,BMW,BMW,X6 M50i,8,4.4,23.382,18
+2021,BMW,BMW,X6 xDrive40i,6,3,29.778,23
+2021,BMW,BMW,X7 M50i,8,4.4,22.075,17
+2021,BMW,BMW,X7 xDrive40i,6,3,27.931,21
+2021,General Motors,Buick,ENCLAVE AWD,6,3.6,26.259,20
+2021,General Motors,Cadillac,ESCALADE 4WD,6,3,28.997,22
+2021,General Motors,Cadillac,ESCALADE 4WD,8,6.2,20.618,16
+2021,General Motors,Cadillac,ESCALADE 4WD,8,6.2,21.29,16
+2021,General Motors,Chevrolet,SUBURBAN 4WD,6,3,28.997,22
+2021,General Motors,Chevrolet,SUBURBAN 4WD,8,5.3,21.708,16
+2021,General Motors,Chevrolet,SUBURBAN 4WD,8,5.3,22.212,17
+2021,General Motors,Chevrolet,SUBURBAN 4WD,8,6.2,20.618,16
+2021,General Motors,Chevrolet,SUBURBAN 4WD,8,6.2,21.29,16
+2021,General Motors,Chevrolet,TAHOE 4WD,6,3,28.997,22
+2021,General Motors,Chevrolet,TAHOE 4WD,8,5.3,22.65,17
+2021,General Motors,Chevrolet,TAHOE 4WD,8,5.3,23.135,18
+2021,General Motors,Chevrolet,TAHOE 4WD,8,6.2,20.618,16
+2021,General Motors,Chevrolet,TAHOE 4WD,8,6.2,21.29,16
+2021,General Motors,Chevrolet,TRAVERSE AWD,6,3.6,26.338,20
+2021,FCA US LLC,Dodge,Durango AWD,6,3.6,27.172,21
+2021,FCA US LLC,Dodge,Durango AWD,8,5.7,21.394,17
+2021,FCA US LLC,Dodge,Durango SRT AWD,8,6.2,17.089,13
+2021,FCA US LLC,Dodge,Durango SRT AWD,8,6.4,19.279,15
+2021,Ford Motor Company,Ford,EXPEDITION 4WD,6,3.5,24.228,19
+2021,Ford Motor Company,Ford,EXPEDITION MAX 4WD,6,3.5,24.228,18
+2021,Ford Motor Company,Ford,EXPLORER AWD,4,2.3,30.104,23
+2021,Ford Motor Company,Ford,EXPLORER AWD,4,2.3,30.104,23
+2021,Ford Motor Company,Ford,EXPLORER AWD,6,3,26.39,20
+2021,Ford Motor Company,Ford,EXPLORER FFV AWD,6,3.3,24.422,19
+2021,Ford Motor Company,Ford,EXPLORER HEV AWD,6,3.3,32.721,25
+2021,Ford Motor Company,Ford,EXPLORER TIMBERLINE AWD,4,2.3,28.321,21
+2021,Hyundai,GENESIS,GV80 AWD,4,2.5,30.043,22
+2021,Hyundai,GENESIS,GV80 AWD,6,3.5,26.097,20
+2021,General Motors,GMC,ACADIA AWD,4,2,32.487,24
+2021,General Motors,GMC,ACADIA AWD,6,3.6,28.16,21
+2021,General Motors,GMC,YUKON 4WD,6,3,28.997,22
+2021,General Motors,GMC,YUKON 4WD,8,5.3,22.65,17
+2021,General Motors,GMC,YUKON 4WD,8,5.3,23.135,18
+2021,General Motors,GMC,YUKON 4WD,8,6.2,20.618,16
+2021,General Motors,GMC,YUKON 4WD,8,6.2,21.29,16
+2021,General Motors,GMC,YUKON XL 4WD,6,3,28.997,22
+2021,General Motors,GMC,YUKON XL 4WD,8,5.3,21.708,16
+2021,General Motors,GMC,YUKON XL 4WD,8,5.3,22.212,17
+2021,General Motors,GMC,YUKON XL 4WD,8,6.2,20.618,16
+2021,General Motors,GMC,YUKON XL 4WD,8,6.2,21.29,16
+2021,Hyundai,HYUNDAI MOTOR COMPANY,Palisade AWD,6,3.8,27.75,21
+2021,Nissan,INFINITI,QX80 4WD,8,5.6,19.895,15
+2021,Nissan,INFINITI,QX80 4WD,8,5.6,20.39,15
+2021,FCA US LLC,Jeep,Grand Cherokee 4X4,6,3.6,27.172,21
+2021,FCA US LLC,Jeep,Grand Cherokee 4X4,8,5.7,21.394,17
+2021,FCA US LLC,Jeep,Grand Cherokee L 4X4,6,3.6,27.07,21
+2021,FCA US LLC,Jeep,Grand Cherokee L 4X4,8,5.7,21.394,17
+2021,FCA US LLC,Jeep,Grand Cherokee SRT 4x4,8,6.4,19.057,15
+2021,FCA US LLC,Jeep,Grand Cherokee Trackhawk 4x4,8,6.2,16.842,13
+2021,Volkswagen Group of,Lamborghini,Urus,8,4,17.729,14
+2021,Jaguar Land Rover L,Land Rover,Defender 110,4,2,23.889,18
+2021,Jaguar Land Rover L,Land Rover,Defender 110 MHEV,6,3,26.132,19
+2021,Jaguar Land Rover L,Land Rover,Defender 90,4,2,25.429,19
+2021,Jaguar Land Rover L,Land Rover,Defender 90 MHEV,6,3,26.132,19
+2021,Jaguar Land Rover L,Land Rover,Discovery,4,2,27.836,21
+2021,Jaguar Land Rover L,Land Rover,Discovery MHEV,6,3,28.468,21
+2021,Jaguar Land Rover L,Land Rover,Range Rover,6,3,32.384,24
+2021,Jaguar Land Rover L,Land Rover,Range Rover,8,5,23.439,18
+2021,Jaguar Land Rover L,Land Rover,Range Rover LWB,8,5,23.439,18
+2021,Jaguar Land Rover L,Land Rover,Range Rover LWB SVA,8,5,19.302,15
+2021,Jaguar Land Rover L,Land Rover,Range Rover MHEV,6,3,27.508,20
+2021,Jaguar Land Rover L,Land Rover,Range Rover Sport,6,3,32.384,24
+2021,Jaguar Land Rover L,Land Rover,Range Rover Sport,8,5,24.434,19
+2021,Jaguar Land Rover L,Land Rover,Range Rover Sport MHEV,6,3,28.504,21
+2021,Jaguar Land Rover L,Land Rover,Range Rover Sport SVR,8,5,21.128,16
+2021,Jaguar Land Rover L,Land Rover,Range Rover SVA,8,5,19.951,16
+2021,Toyota,LEXUS,GX 460,8,4.6,20.905,16
+2021,Toyota,LEXUS,LX 570,8,5.7,18.143,14
+2021,Toyota,LEXUS,RX 450h AWD,6,3.5,40.822,30
+2021,Toyota,LEXUS,RX 450h L AWD,6,3.5,40.822,29
+2021,Ford Motor Company,Lincoln,AVIATOR AWD,6,3,26.39,20
+2021,Ford Motor Company,Lincoln,NAVIGATOR 4WD,6,3.5,22.584,17
+2021,Maserati,MASERATI,LEVANTE,6,3,22.993,18
+2021,Maserati,MASERATI,LEVANTE GTS,8,3.8,19.895,16
+2021,Maserati,MASERATI,LEVANTE S,6,3,22.993,18
+2021,Maserati,MASERATI,LEVANTE TROFEO,8,3.8,19.895,16
+2021,Mercedes-Benz,Mercedes-Benz,AMG G 63,8,4,17.838,14
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+,6,3,25.307,19
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLE 53 4MATIC+ (coupe),6,3,26.384,20
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+,8,4,21.157,16
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLE 63 S 4MATIC+ (coupe),8,4,21.495,17
+2021,Mercedes-Benz,Mercedes-Benz,AMG GLS 63 4MATIC+,8,4,20.45,16
+2021,Mercedes-Benz,Mercedes-Benz,G 550,8,4,23.417,18
+2021,Mercedes-Benz,Mercedes-Benz,GLE 450 4MATIC,6,3,29.858,23
+2021,Mercedes-Benz,Mercedes-Benz,GLE 580 4MATIC,8,4,24.865,19
+2021,Mercedes-Benz,Mercedes-Benz,GLS 450 4MATIC,6,3,28.145,21
+2021,Mercedes-Benz,Mercedes-Benz,GLS 580 4MATIC,8,4,23.379,18
+2021,Mercedes-Benz,Mercedes-Benz,GLS 600 4MATIC Maybach,8,4,21.215,16
+2021,Nissan,NISSAN,ARMADA 4WD,8,5.6,20.086,15
+2021,Nissan,NISSAN,ARMADA 4WD,8,5.6,19.967,15
+2021,Porsche,Porsche,Cayenne,6,3,26.8,20
+2021,Porsche,Porsche,Cayenne Coupé,6,3,26.486,20
+2021,Porsche,Porsche,Cayenne GTS,8,4,21.305,17
+2021,Porsche,Porsche,Cayenne GTS Coupe,8,4,22.231,17
+2021,Porsche,Porsche,Cayenne S,6,2.9,25.759,20
+2021,Porsche,Porsche,Cayenne S Coupé,6,2.9,24.898,19
+2021,Porsche,Porsche,Cayenne Turbo,8,4,21.874,17
+2021,Porsche,Porsche,Cayenne Turbo Coupé,8,4,21.335,17
+2021,Subaru,Subaru,ASCENT AWD,4,2.4,30.316,23
+2021,Subaru,Subaru,ASCENT LIMITED/TOURING AWD,4,2.4,29.015,22
+2021,Toyota,TOYOTA,4RUNNER 4WD,6,4,22.718,17
+2021,Toyota,TOYOTA,4RUNNER 4WD,6,4,22.718,17
+2021,Toyota,TOYOTA,HIGHLANDER HYBRID AWD,4,2.5,47.052,35
+2021,Toyota,TOYOTA,HIGHLANDER HYBRID AWD LTD/PLAT,4,2.5,47.648,35
+2021,Toyota,TOYOTA,LAND CRUISER WAGON 4WD,8,5.7,18.543,14
+2021,Toyota,TOYOTA,SEQUOIA 4WD,8,5.7,18.331,14
+2021,Volkswagen Group of,Volkswagen,Atlas 4Motion,6,3.6,23.529,18
+2021,Volvo,"Volvo Cars of North America, LLC",XC90 AWD,4,2,29.47,22
+2021,Volvo,"Volvo Cars of North America, LLC",XC90 AWD,4,2,30.783,23
