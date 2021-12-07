@@ -1,9 +1,15 @@
-# OMLDS_Outliers
-This is a brief presentation about outliers delivered to the 
+# Outliers
+## An introduction to handling outliers using Python
+---
+This is a presentation about outliers delivered to the 
 [Orlando Machine Learning and Data Science Meetup Group (OMLDS)](https://www.meetup.com/Orlando-MLDS/) 
 on October 26, 2021 during an online Lunch and Learn session.
 
+Small snippets of Python code are highlighted in the presentation slides.  The
+full code is in the Python notebook included with this repository.
 
+---
+## Presentation Slides
 ![Slide 1](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide1.PNG)
 
 ![Slide 2](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide2.PNG)
