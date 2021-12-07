@@ -1,12 +1,21 @@
 # Outliers
-## An introduction to handling outliers using Python
----
+An introduction to handling outliers using Python
+
+## Summary
 This is a presentation about outliers delivered to the 
 [Orlando Machine Learning and Data Science Meetup Group (OMLDS)](https://www.meetup.com/Orlando-MLDS/) 
 on October 26, 2021 during an online Lunch and Learn session.
 
+Outliers are a a fundamental concept to understand in machine learning and 
+statistics.  This presentation uses EPA fuel efficiency data as a real world 
+example of how outliers can lead us to identify new and interesting 
+groups/subsets within data.  
+
 Small snippets of Python code are highlighted in the presentation slides.  The
-full code is in the Python notebook included with this repository.
+full code is in the notebook within this repository.  For those seeking to 
+grow python visual graphing skills, the code shows a method using Seaborn 
+regplots overlayed with scatter plots to highlight outliers with a different 
+color, something not inherent in the Seaborn regplot.
 
 ---
 ## Presentation Slides
