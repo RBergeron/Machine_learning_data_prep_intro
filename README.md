@@ -1,4 +1,4 @@
-# Machine Learning Data Prep:  ## Handling outliers using Python
+# Machine Learning Data Prep:  Handling outliers using Python
 
 ### Summary
 This presentation is about data preparation for machine learning.  It begins 
