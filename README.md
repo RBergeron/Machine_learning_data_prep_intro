@@ -1,10 +1,9 @@
-# Machine Learning Data Prep:  
-## Handling outliers using Python
+# Machine Learning Data Prep:  ## Handling outliers using Python
 
 ### Summary
 This presentation is about data preparation for machine learning.  It begins 
-with a general introduction of machine learning.  Then it briefly introduces 
-the importance of data preparation and handling outliers with Python as a 
+with a general introduction of machine learning.  Then briefly introduces 
+the importance of data preparation and handling outliers with Python as  
 a specific example.  
 
 The presentation was delevered twice to Orlando area organizations.  
