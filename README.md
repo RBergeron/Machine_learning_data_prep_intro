@@ -2,14 +2,21 @@
 An introduction to handling outliers using Python
 
 ## Summary
-This is a presentation about outliers delivered to the 
-[Orlando Machine Learning and Data Science Meetup Group (OMLDS)](https://www.meetup.com/Orlando-MLDS/) 
-on October 26, 2021 during an online Lunch and Learn session.
+This presentation is about data preparation for machine learning.  It begins 
+with a general introduction of machine learning.  Then it briefly introduces 
+the importance of data preparation and handling outliers with Python as a 
+a specific example.  
 
-Outliers are a a fundamental concept to understand in machine learning and 
-statistics.  This presentation uses EPA fuel efficiency data as a real world 
-example of how outliers can lead us to identify new and interesting 
-groups/subsets within data.  
+The presentation was delevered twice to Orlando area organizations.  
+First, to the [Orlando Machine Learning and Data Science Meetup Group (OMLDS)](https://www.meetup.com/Orlando-MLDS/) 
+on October 26, 2021 during an online Lunch and Learn.  
+Second, as part of the machine learning track of [SQL Saturday Orlando 2022](https://sqlsaturday.com/2022-10-08-sqlsaturday1030/)
+on October 8, 2022.
+
+Data preparation for machine learning is essential.  Outliers are a a fundamental 
+concept to understand in machine learning and statistics.  This presentation 
+uses EPA fuel efficiency data as a real world example of how outliers can lead 
+us to identify new and interesting groups/subsets within data.  
 
 Small snippets of Python code are highlighted in the presentation slides.  The
 full code is in the notebook within this repository.  For those seeking to 
@@ -68,4 +75,18 @@ color, something not inherent in the Seaborn regplot.
 ![Slide 24](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide24.PNG)
 
 ![Slide 25](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide25.PNG)
+
+![Slide 26](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide26.PNG)
+
+![Slide 27](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide27.PNG)
+
+![Slide 28](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide28.PNG)
+
+![Slide 29](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide29.PNG)
+
+![Slide 30](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide30.PNG)
+
+![Slide 31](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide31.PNG)
+
+![Slide 32](https://github.com/RBergeron/OMLDS_Outliers/blob/main/images/Slide32.PNG)
 
